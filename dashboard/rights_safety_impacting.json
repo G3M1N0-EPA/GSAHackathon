@@ -8,7 +8,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "CBP uses this tool to conduct targeted queries to aid CBP in open source research to monitor potential threats or dangers or identify travelers who may be subject to further inspection for violation of laws CBP is authorized to enforce or administer."
+    "purpose_and_benefits": "CBP uses this tool to conduct targeted queries to aid CBP in open source research to monitor potential threats or dangers or identify travelers who may be subject to further inspection for violation of laws CBP is authorized to enforce or administer.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -19,7 +25,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The system enhances CBP's capability to monitor, analyze, and assess threats related to border security by processing vast amounts of open-source data, CBP aims to detect potential risks, monitor emerging trends, and uncover connections between individuals, organizations, or networks involved in illegal activities such as human trafficking, smuggling, or terrorism. Thereby streamlining operations and bolster security measures while maintaining a proactive approach to emerging threats"
+    "purpose_and_benefits": "The system enhances CBP's capability to monitor, analyze, and assess threats related to border security by processing vast amounts of open-source data, CBP aims to detect potential risks, monitor emerging trends, and uncover connections between individuals, organizations, or networks involved in illegal activities such as human trafficking, smuggling, or terrorism. Thereby streamlining operations and bolster security measures while maintaining a proactive approach to emerging threats",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -30,7 +42,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "AAXI aims to address the problem of anomaly detection in empty commercial vehicles entering the United States at land border ports of entry. The AI models achieve this goal by encoding past X-Ray images of vehicular border crossings in a semantically meaningful way and comparing the current crossing to detect differences amongst the images to identify anomalies. Benefits include enhancement of the capability of humans to consistently detect items of interest/concern present (and possibly concealed) in vehicles crossing into the United States, and increased clearance rate at border crossings so that vehicles operating safely and lawfully may pass through the border faster."
+    "purpose_and_benefits": "AAXI aims to address the problem of anomaly detection in empty commercial vehicles entering the United States at land border ports of entry. The AI models achieve this goal by encoding past X-Ray images of vehicular border crossings in a semantically meaningful way and comparing the current crossing to detect differences amongst the images to identify anomalies. Benefits include enhancement of the capability of humans to consistently detect items of interest/concern present (and possibly concealed) in vehicles crossing into the United States, and increased clearance rate at border crossings so that vehicles operating safely and lawfully may pass through the border faster.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -41,7 +59,12 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "ARMOR will shorten time to service/repair/maintenance of radiation portal monitors by two weeks. ARMOR will allow better distribution of resources (travel, spare parts, etc.) and expected cost decrease could be 25-50%. Through decreased outage time, and prediction of equipment degradation, ARMOR will increase radiological/nuclear (R/N) security on US borders."
+    "purpose_and_benefits": "ARMOR will shorten time to service/repair/maintenance of radiation portal monitors by two weeks. ARMOR will allow better distribution of resources (travel, spare parts, etc.) and expected cost decrease could be 25-50%. Through decreased outage time, and prediction of equipment degradation, ARMOR will increase radiological/nuclear (R/N) security on US borders.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Homeland Security",
@@ -52,7 +75,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "PBS is intended to enhance situational awareness in pedestrian traveler processing to aid  CBP officers in observing potentially dangerous objects or contraband in a timely manner and pursuant to CBP\ufffds border search authority."
+    "purpose_and_benefits": "PBS is intended to enhance situational awareness in pedestrian traveler processing to aid  CBP officers in observing potentially dangerous objects or contraband in a timely manner and pursuant to CBP\ufffds border search authority.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -63,7 +93,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "CBP Translate is used to facilitate clear communication between officers and non-English-speaking individuals during border interactions. The AI enhances efficiency by reducing language barriers, supports diverse languages for greater inclusivity, and ensures accurate communication to minimize misunderstandings during critical procedures."
+    "purpose_and_benefits": "CBP Translate is used to facilitate clear communication between officers and non-English-speaking individuals during border interactions. The AI enhances efficiency by reducing language barriers, supports diverse languages for greater inclusivity, and ensures accurate communication to minimize misunderstandings during critical procedures.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -74,7 +111,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The TVS Biometric matching service is a cloud-based facial biometric matching service that enables CBP to match a passenger\ufffds identity against a trusted source, throughout the travel continuum which improves traveler facilitation and reduces manual identity verification"
+    "purpose_and_benefits": "The TVS Biometric matching service is a cloud-based facial biometric matching service that enables CBP to match a passenger\ufffds identity against a trusted source, throughout the travel continuum which improves traveler facilitation and reduces manual identity verification",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -85,7 +129,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The TVS Biometric matching service is a cloud-based facial biometric matching service that enables CBP to match a passenger\ufffds identity against a trusted source, throughout the travel continuum which improves traveler facilitation and reduces manual identity verification."
+    "purpose_and_benefits": "The TVS Biometric matching service is a cloud-based facial biometric matching service that enables CBP to match a passenger\ufffds identity against a trusted source, throughout the travel continuum which improves traveler facilitation and reduces manual identity verification.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -96,7 +147,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The TVS Biometric Air Exit solution is a cloud-based facial biometric matching service that enables CBP, External Partners, and Other Government Agencies (OGA) to match a passenger\ufffds identity against a trusted source, throughout the travel continuum which improves traveler facilitation and reduces manual identity verification."
+    "purpose_and_benefits": "The TVS Biometric Air Exit solution is a cloud-based facial biometric matching service that enables CBP, External Partners, and Other Government Agencies (OGA) to match a passenger\ufffds identity against a trusted source, throughout the travel continuum which improves traveler facilitation and reduces manual identity verification.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -107,7 +165,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "CBP's Traveler Identity Verification Services (Vetting) utilizes facial recognition technology to enhance threat identification by matching travelers' biometrics against records of concern."
+    "purpose_and_benefits": "CBP's Traveler Identity Verification Services (Vetting) utilizes facial recognition technology to enhance threat identification by matching travelers' biometrics against records of concern.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -118,7 +183,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The purpose is to facilitate the biometric identification of individuals as they are encountered by CBP for the purpose of expedited processing."
+    "purpose_and_benefits": "The purpose is to facilitate the biometric identification of individuals as they are encountered by CBP for the purpose of expedited processing.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -129,7 +201,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) division would like to explore technology that could help lead to time savings and eliminate human error due to overburdened officers.  An AI generated hurricane score could also minimize the risk that a factor is overlooked due to officers being overburdened.  The hurricane score may be one factor that is used to inform the decision-making process. The \ufffdHurricane Score\ufffd models the potential risk (1-5) that a noncitizen who is released from detention with the requirement to check in with ICE through monitoring will abscond from the program, with a higher number indicating a higher risk of absconding."
+    "purpose_and_benefits": "The Immigration and Customs Enforcement (ICE) Enforcement and Removal Operations (ERO) division would like to explore technology that could help lead to time savings and eliminate human error due to overburdened officers.  An AI generated hurricane score could also minimize the risk that a factor is overlooked due to officers being overburdened.  The hurricane score may be one factor that is used to inform the decision-making process. The \ufffdHurricane Score\ufffd models the potential risk (1-5) that a noncitizen who is released from detention with the requirement to check in with ICE through monitoring will abscond from the program, with a higher number indicating a higher risk of absconding.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -140,7 +219,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The Check-In App is an opt-in capability that allows for low-risk adult noncitizens to securely check-in via an ICE Verified user account, verify their identity, identify their location, and satisfy check-in requirements thereby reducing in-person office visits and reducing manual processing work. AI-enabled capabilities within the ICE Check-In application give ICE the ability to scale its interactions to a greater number of noncitizens and reduce in-office presence at ICE facilities."
+    "purpose_and_benefits": "The Check-In App is an opt-in capability that allows for low-risk adult noncitizens to securely check-in via an ICE Verified user account, verify their identity, identify their location, and satisfy check-in requirements thereby reducing in-person office visits and reducing manual processing work. AI-enabled capabilities within the ICE Check-In application give ICE the ability to scale its interactions to a greater number of noncitizens and reduce in-office presence at ICE facilities.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -151,7 +237,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "ISAP Biometric Monitoring App is a technology option that allows participants to report in using a smartphone. This app verifies a participant\ufffds identity, determine their location, and quickly collect status change information. The app adds functionality not available with telephonic and is less intrusive than a GPS unit. ISAP monitoring app limits in-person interactions of routine check-ins, allowing more time to be allocated to non-compliant participants, complex removal proceedings cases and docket management."
+    "purpose_and_benefits": "ISAP Biometric Monitoring App is a technology option that allows participants to report in using a smartphone. This app verifies a participant\ufffds identity, determine their location, and quickly collect status change information. The app adds functionality not available with telephonic and is less intrusive than a GPS unit. ISAP monitoring app limits in-person interactions of routine check-ins, allowing more time to be allocated to non-compliant participants, complex removal proceedings cases and docket management.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -162,7 +255,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The Transportation Security Administration (TSA) uses body-worn cameras that incorporate artificial intelligence (AI) technologies as a part of the underlying software which transcribes and translates video footage. The technology provides rapid access to LEO and Investigative data, through transcription.  This will cut investigative processing time significantly, while also increasing accuracy."
+    "purpose_and_benefits": "The Transportation Security Administration (TSA) uses body-worn cameras that incorporate artificial intelligence (AI) technologies as a part of the underlying software which transcribes and translates video footage. The technology provides rapid access to LEO and Investigative data, through transcription.  This will cut investigative processing time significantly, while also increasing accuracy.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -173,7 +272,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The Transportation Security Administration (TSA) uses AI-based, one-to-one (1:1) facial matching technologies at some checkpoints to assist human reviewers with traveler identity verification. The purpose and expected benefits of the technology include increased speed and accuracy of identity verification at the checkpoint while improving detection of imposters."
+    "purpose_and_benefits": "The Transportation Security Administration (TSA) uses AI-based, one-to-one (1:1) facial matching technologies at some checkpoints to assist human reviewers with traveler identity verification. The purpose and expected benefits of the technology include increased speed and accuracy of identity verification at the checkpoint while improving detection of imposters.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -184,7 +289,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "TSA is using Facial Comparison to verify a passenger\ufffds identity at its security checkpoints and CMAP locations using the CBP Traveler Verification Service (TVS). This process streamlines passenger and crewmember identity verification, increasing the speed of security checks while maintaining a high degree of safety for all passengers and crewmembers.\""
+    "purpose_and_benefits": "TSA is using Facial Comparison to verify a passenger\ufffds identity at its security checkpoints and CMAP locations using the CBP Traveler Verification Service (TVS). This process streamlines passenger and crewmember identity verification, increasing the speed of security checks while maintaining a high degree of safety for all passengers and crewmembers.\"",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -195,7 +306,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This will allow the user to complete the biometric verification requirement without having to attend an appointment at am Applicant Support Center. This reduces the burden on the beneficiary as well as reducing demands on USCIS Applicant Service Center resources."
+    "purpose_and_benefits": "This will allow the user to complete the biometric verification requirement without having to attend an appointment at am Applicant Support Center. This reduces the burden on the beneficiary as well as reducing demands on USCIS Applicant Service Center resources.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -206,7 +323,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Document Translation: Integrate AI and GenAI models trained on relevant subject matter (e.g., immigration law, visa/immigration applications, family/adoption certificates, and other sourced processing materials) to provide fast, accurate translation of written or other digital documents in various languages.\nReal-time Interpretation: Utilizing AI and GenAI-powered speech-to-speech, speech-to-text translation tools for efficient communication, consultations, and other interactions within DHS. Across all DHS components the need to support language translation and transcription is crucial for operations and adjudications."
+    "purpose_and_benefits": "Document Translation: Integrate AI and GenAI models trained on relevant subject matter (e.g., immigration law, visa/immigration applications, family/adoption certificates, and other sourced processing materials) to provide fast, accurate translation of written or other digital documents in various languages.\nReal-time Interpretation: Utilizing AI and GenAI-powered speech-to-speech, speech-to-text translation tools for efficient communication, consultations, and other interactions within DHS. Across all DHS components the need to support language translation and transcription is crucial for operations and adjudications.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -217,7 +340,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Leveraging AI in the USCIS verification matching process of known records across systems is beneficial because it streamlines existing USCIS review by 1) improving associated system accuracy, 2) reducing human-error by automating person-and-record match scoring, and 3) matching at a higher volume than traditional tools or manual processes can capably achieve."
+    "purpose_and_benefits": "Leveraging AI in the USCIS verification matching process of known records across systems is beneficial because it streamlines existing USCIS review by 1) improving associated system accuracy, 2) reducing human-error by automating person-and-record match scoring, and 3) matching at a higher volume than traditional tools or manual processes can capably achieve.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -228,7 +356,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "USCIS uses the Facial Recognition (FR) on Demand report (Visa only) to combat fraud by benefit applicants whose fingerprints are not in IDENT but who may have photos in the Department of State's (DoS) Consular Consolidated Database (CCD) that predate the fingerprinting of visa applicants.\ufffd"
+    "purpose_and_benefits": "USCIS uses the Facial Recognition (FR) on Demand report (Visa only) to combat fraud by benefit applicants whose fingerprints are not in IDENT but who may have photos in the Department of State's (DoS) Consular Consolidated Database (CCD) that predate the fingerprinting of visa applicants.\ufffd",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -239,7 +373,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Survey results cosed to specify the sentiments as positive negative or neutral tone in a excel dashboard"
+    "purpose_and_benefits": "Survey results cosed to specify the sentiments as positive negative or neutral tone in a excel dashboard",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -250,7 +389,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Text Analytics augments the tedious and time-consuming manual process to identify potential fraud, national security, and/or public safety concerns and enables the identification of such concerns across jurisdictional boundaries. It increases the integrity of immigration programs, strengthens officers\ufffd confidence in their work, and contributes to the reduction in customer wait times."
+    "purpose_and_benefits": "Text Analytics augments the tedious and time-consuming manual process to identify potential fraud, national security, and/or public safety concerns and enables the identification of such concerns across jurisdictional boundaries. It increases the integrity of immigration programs, strengthens officers\ufffd confidence in their work, and contributes to the reduction in customer wait times.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -261,7 +407,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "ARGOS sentiment analysis produces a risk score and keyword extraction identifies the keword category of interest to the VAC MPAs (management and program analyst) for the aggregated open-source information to help quickly identify any pertinent information to aid the MPAs in their open-source investigation of company applications.  This saves potentially thousands of MPA man hours in open-source investigation and creates a single source-of-truth for each MPAs investigation of a company application.  This, in turn, allows for quicker application processing and, if risk of company fraud exists, much faster referral processing time quickening the next-step referral to FDNS for further investigations."
+    "purpose_and_benefits": "ARGOS sentiment analysis produces a risk score and keyword extraction identifies the keword category of interest to the VAC MPAs (management and program analyst) for the aggregated open-source information to help quickly identify any pertinent information to aid the MPAs in their open-source investigation of company applications.  This saves potentially thousands of MPA man hours in open-source investigation and creates a single source-of-truth for each MPAs investigation of a company application.  This, in turn, allows for quicker application processing and, if risk of company fraud exists, much faster referral processing time quickening the next-step referral to FDNS for further investigations.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -272,7 +424,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This will allow the user to complete the biometric verification requirement without having to attend an appointment at am Applicant Support Center. This reduces the burden on the beneficiary as well as reducing demands on USCIS Applicant Service Center resources."
+    "purpose_and_benefits": "This will allow the user to complete the biometric verification requirement without having to attend an appointment at am Applicant Support Center. This reduces the burden on the beneficiary as well as reducing demands on USCIS Applicant Service Center resources.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -283,7 +442,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Using Machine Learning allows us to improve entity resolution as compared to rule based system.\n\nPCIS offers the ability to see a person's immigration history organized in one place. Specific benefits do or will include: an organized summary view of the identity with the individual's latest photo from PCIS; full immigration history including receipts associated with the applicant, regardless of case management system; mailing, physical, and safe history of the individual organized in reverse chronological order, allowing users to easily find the most recent address; and all identifiers associated with the applicant, including A-Numbers, FINs, SSNs, SSNs, ELIS account numbers, passport numbers, etc."
+    "purpose_and_benefits": "Using Machine Learning allows us to improve entity resolution as compared to rule based system.\n\nPCIS offers the ability to see a person's immigration history organized in one place. Specific benefits do or will include: an organized summary view of the identity with the individual's latest photo from PCIS; full immigration history including receipts associated with the applicant, regardless of case management system; mailing, physical, and safe history of the individual organized in reverse chronological order, allowing users to easily find the most recent address; and all identifiers associated with the applicant, including A-Numbers, FINs, SSNs, SSNs, ELIS account numbers, passport numbers, etc.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Homeland Security",
@@ -294,7 +460,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The intended purpose of this AI is so that USSS INV personnel may submit available photographs or video stills of these unknown persons as probe images (facial images or templates searched against the gallery of an FRS) to other government agencies for comparison against their image galleries. The agencies will query their image galleries of known persons and may provide lists of potential matches. USSS INV personnel may use the potential matches to produce investigative leads which will assist in the further identification of victims or suspects. Additionally, USSS INV personnel may request another government agency to conduct a one-to-one comparison of two photographs or video stills  for investigative use."
+    "purpose_and_benefits": "The intended purpose of this AI is so that USSS INV personnel may submit available photographs or video stills of these unknown persons as probe images (facial images or templates searched against the gallery of an FRS) to other government agencies for comparison against their image galleries. The agencies will query their image galleries of known persons and may provide lists of potential matches. USSS INV personnel may use the potential matches to produce investigative leads which will assist in the further identification of victims or suspects. Additionally, USSS INV personnel may request another government agency to conduct a one-to-one comparison of two photographs or video stills  for investigative use.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Energy",
@@ -305,7 +478,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "(1) Data Visualization using AI (2) Improve efficiency of obtaining insights from data (e.g., ES&H data)"
+    "purpose_and_benefits": "(1) Data Visualization using AI (2) Improve efficiency of obtaining insights from data (e.g., ES&H data)",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Energy",
@@ -316,7 +495,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "(1) Searching for Information using AI (2) Improve efficiency of finding relevant data (e.g., ES&H data)"
+    "purpose_and_benefits": "(1) Searching for Information using AI (2) Improve efficiency of finding relevant data (e.g., ES&H data)",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Energy",
@@ -327,7 +512,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "(1) Grouping Reports using AI (i.e., Clustering) (2) Improve efficiency of grouping and highlighting important data (e.g., ES&H data)"
+    "purpose_and_benefits": "(1) Grouping Reports using AI (i.e., Clustering) (2) Improve efficiency of grouping and highlighting important data (e.g., ES&H data)",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Labor",
@@ -338,7 +529,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "To identify if physician's note contains causal language by training custom natural language processing models."
+    "purpose_and_benefits": "To identify if physician's note contains causal language by training custom natural language processing models.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Labor",
@@ -349,7 +546,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Using Amazon Web Services Personal Identifying Information scrubber for ITA text fields and Named Entity Recognition to remove additional names from the text fields."
+    "purpose_and_benefits": "Using Amazon Web Services Personal Identifying Information scrubber for ITA text fields and Named Entity Recognition to remove additional names from the text fields.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Environmental Protection Agency",
@@ -360,7 +563,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Risk scoring of Large Quantity Generators (LQGs) to support RCRA inspections"
+    "purpose_and_benefits": "Risk scoring of Large Quantity Generators (LQGs) to support RCRA inspections",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "General Services Administration",
@@ -371,7 +580,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The purpose of Login.gov's identity verification service is to establish a link between the claimed identity and the subject creating a user account. The facial matching AI component of this service provides enhanced controls to protect users from identity fraud and the government from fraudulent access. \n\nThe benefit to the user is to provide a fast, convenient way to prove their identity remotely and protect the public from identity theft.\n\nThe benefit to the government is to that government partners may use this tool to verify the identities of people accessing government websites in a remote, unattended session and protect Government systems from fraudulent access."
+    "purpose_and_benefits": "The purpose of Login.gov's identity verification service is to establish a link between the claimed identity and the subject creating a user account. The facial matching AI component of this service provides enhanced controls to protect users from identity fraud and the government from fraudulent access. \n\nThe benefit to the user is to provide a fast, convenient way to prove their identity remotely and protect the public from identity theft.\n\nThe benefit to the government is to that government partners may use this tool to verify the identities of people accessing government websites in a remote, unattended session and protect Government systems from fraudulent access.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Health and Human Services",
@@ -382,7 +596,12 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "In accordance with the Ms L vs ICE settlement, the U.S. Customs and Border Protection (CBP) must provide specific pieces of information about family separations. Beginning November 2024, CPB will release this information. ACF's Office of Refugee Resettlement (ORR) plans to add family separation information to existing child profile information for reference.\n\nThe AI output structures free form data into a more easily searchable format. These data will be used to assist in the placement process."
+    "purpose_and_benefits": "In accordance with the Ms L vs ICE settlement, the U.S. Customs and Border Protection (CBP) must provide specific pieces of information about family separations. Beginning November 2024, CPB will release this information. ACF's Office of Refugee Resettlement (ORR) plans to add family separation information to existing child profile information for reference.\n\nThe AI output structures free form data into a more easily searchable format. These data will be used to assist in the placement process.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Health and Human Services",
@@ -393,7 +612,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The Office of Refugee Resettlement (ORR) has amassed a large backlog of Notice of Concern (NOC) PDF forms that contain critical information regarding safety of children who have left ORR's care. \n\nThe AI-powered triage tool will support Office of Refugee Resettlement staff more effectively and efficiently review NOCs by helping structure and prioritize received NOCs. Through more effective triage, ORR will begin to cut down on the large backlog that has accumulated."
+    "purpose_and_benefits": "The Office of Refugee Resettlement (ORR) has amassed a large backlog of Notice of Concern (NOC) PDF forms that contain critical information regarding safety of children who have left ORR's care. \n\nThe AI-powered triage tool will support Office of Refugee Resettlement staff more effectively and efficiently review NOCs by helping structure and prioritize received NOCs. Through more effective triage, ORR will begin to cut down on the large backlog that has accumulated.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Health and Human Services",
@@ -404,7 +629,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The NHSC and Nurse Corps Scholarship reviewers need to receive and score thousands of essays submitted and the manual process delays the application processes. We are looking forward to building a Generative AI program that looks at all of the previous essays and how the scoring rubric was done and train it to do the first cut at scoring the essays. This could enhance the fairness and efficiency of scholarship evaluations, ensuring a thorough review process that supports equitable student opportunities.\n\nReduce the amount of time required for internal or external reviews to evaluated NHSC and Nurse Corps scholarship applications and ensure that human reviewers are following the appropriate scoring rubric."
+    "purpose_and_benefits": "The NHSC and Nurse Corps Scholarship reviewers need to receive and score thousands of essays submitted and the manual process delays the application processes. We are looking forward to building a Generative AI program that looks at all of the previous essays and how the scoring rubric was done and train it to do the first cut at scoring the essays. This could enhance the fairness and efficiency of scholarship evaluations, ensuring a thorough review process that supports equitable student opportunities.\n\nReduce the amount of time required for internal or external reviews to evaluated NHSC and Nurse Corps scholarship applications and ensure that human reviewers are following the appropriate scoring rubric.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Health and Human Services",
@@ -415,7 +646,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The current application review process requires internal analysis to review many complex documents to determine Site Eligibility to employ a member of the NHSC or Nurse Corps. By enhancing this process with AI/ML support could revolutionize and streamline the NHSC, Substance Use Disorder Treatment and Recovery (STAR)and Nurse Corps Site Application Process.\n\nThis would improve the current highly manual process for reviewing Site applications for internal analysts but ensure that clinical sites are being approved for NHSC, Nurse Corps, and STAR LRP."
+    "purpose_and_benefits": "The current application review process requires internal analysis to review many complex documents to determine Site Eligibility to employ a member of the NHSC or Nurse Corps. By enhancing this process with AI/ML support could revolutionize and streamline the NHSC, Substance Use Disorder Treatment and Recovery (STAR)and Nurse Corps Site Application Process.\n\nThis would improve the current highly manual process for reviewing Site applications for internal analysts but ensure that clinical sites are being approved for NHSC, Nurse Corps, and STAR LRP.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Office of Personnel Management",
@@ -426,7 +663,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The purpose of this project is to build an application to help managers and HR specialists (classifiers) improve the quality and speed the development of position descriptions (PDs). Developing a PD can be a lengthy process that requires significant back-and-forth between managers and classifiers. The length of time required to develop a PD is often cited as a major pain point and bottleneck in federal hiring, workforce planning, organizational design, and performance management processes. To address the challenge today, managers will simply copy whole PDs or significant sections of PDs which weakens the accuracy of the new PD. Agencies have also turned to the use of \ufffdstandard\ufffd PDs which tend to be too generic to be effective for use in recruitment and performance.\n\nThis project seeks to solve the \ufffdblank-page-syndrome\ufffd by suggesting draft major duties, factor evaluation statements, and other elements of the PD for managers and classifiers to use to develop PDs that meet classification standards.\n\nThis project is expected to significantly decrease the time required to develop PDs, leading to a decrease in time to hire and other related HR processes. A decrease in the time to hire means agencies can be more competitive in attracting top talent to their organizations, enhancing their ability to meet their missions. A decrease in the time required to develop position descriptions is also expected to lead to cost savings for agencies \ufffd freeing up manager and HR specialist time for other tasks. Additionally, the streamlined generation of PDs will enable agencies to move away from \ufffdstandard\ufffd PD processes which will allow for better organizational design and workforce planning outcomes. The project is expected to also lead to higher-quality PDs that adhere to classification standards. This will improve position and performance management and talent acquisition in agencies, ensuring organizations are structured and staffed appropriately to meet their missions."
+    "purpose_and_benefits": "The purpose of this project is to build an application to help managers and HR specialists (classifiers) improve the quality and speed the development of position descriptions (PDs). Developing a PD can be a lengthy process that requires significant back-and-forth between managers and classifiers. The length of time required to develop a PD is often cited as a major pain point and bottleneck in federal hiring, workforce planning, organizational design, and performance management processes. To address the challenge today, managers will simply copy whole PDs or significant sections of PDs which weakens the accuracy of the new PD. Agencies have also turned to the use of \ufffdstandard\ufffd PDs which tend to be too generic to be effective for use in recruitment and performance.\n\nThis project seeks to solve the \ufffdblank-page-syndrome\ufffd by suggesting draft major duties, factor evaluation statements, and other elements of the PD for managers and classifiers to use to develop PDs that meet classification standards.\n\nThis project is expected to significantly decrease the time required to develop PDs, leading to a decrease in time to hire and other related HR processes. A decrease in the time to hire means agencies can be more competitive in attracting top talent to their organizations, enhancing their ability to meet their missions. A decrease in the time required to develop position descriptions is also expected to lead to cost savings for agencies \ufffd freeing up manager and HR specialist time for other tasks. Additionally, the streamlined generation of PDs will enable agencies to move away from \ufffdstandard\ufffd PD processes which will allow for better organizational design and workforce planning outcomes. The project is expected to also lead to higher-quality PDs that adhere to classification standards. This will improve position and performance management and talent acquisition in agencies, ensuring organizations are structured and staffed appropriately to meet their missions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Office of Personnel Management",
@@ -437,7 +679,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Copilot for Microsoft 365 is an AI-powered addition to the Microsoft 365 suite that helps users be more productive and creative by working with Microsoft 365 apps and services. It uses large language models (LLMs) and integrates with a user's data and Microsoft Graph. Here are some of the ways that Copilot can assist OPM users in Microsoft 365:\n\ufffd\tSummarize \n\ufffd\tDraft \n\ufffd\tAnalyze data \n\ufffd\tCreate, edit, and share\n\ufffd\tAutomate tasks \n\ufffd\tSuggest ideas \n\ufffd\tPersonalize"
+    "purpose_and_benefits": "Copilot for Microsoft 365 is an AI-powered addition to the Microsoft 365 suite that helps users be more productive and creative by working with Microsoft 365 apps and services. It uses large language models (LLMs) and integrates with a user's data and Microsoft Graph. Here are some of the ways that Copilot can assist OPM users in Microsoft 365:\n\ufffd\tSummarize \n\ufffd\tDraft \n\ufffd\tAnalyze data \n\ufffd\tCreate, edit, and share\n\ufffd\tAutomate tasks \n\ufffd\tSuggest ideas \n\ufffd\tPersonalize",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -448,7 +695,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case helps employees visualize, search, and more easily identify relevant clinical content in medical records.  The use case improves efficiency and accuracy of disability determinations/decisions."
+    "purpose_and_benefits": "This AI use case helps employees visualize, search, and more easily identify relevant clinical content in medical records.  The use case improves efficiency and accuracy of disability determinations/decisions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -459,7 +713,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case identifies high-risk iClaims. These claims are then sent to Operations for further review before additional action is taken to adjudicate the claims."
+    "purpose_and_benefits": "This AI use case identifies high-risk iClaims. These claims are then sent to Operations for further review before additional action is taken to adjudicate the claims.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -470,7 +731,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case identifies high likelihood of error in certain claims and refers them for review. This use case reduces incorrect benefits payment."
+    "purpose_and_benefits": "This AI use case identifies high likelihood of error in certain claims and refers them for review. This use case reduces incorrect benefits payment.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -481,7 +749,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case identifies possible representative payee fraud and flags for review. This use case reduces representative payee fraud."
+    "purpose_and_benefits": "This AI use case identifies possible representative payee fraud and flags for review. This use case reduces representative payee fraud.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -492,7 +767,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case identifies disability cases with the greatest likelihood of medical improvement and flag them for a continuing disability review to improve the accuracy of CDRs."
+    "purpose_and_benefits": "This AI use case identifies disability cases with the greatest likelihood of medical improvement and flag them for a continuing disability review to improve the accuracy of CDRs.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -503,7 +785,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case identifies SSI overpayment cases that have highest expected overpayments for review. This use case contains excess overpayments by prioritizing technician review"
+    "purpose_and_benefits": "This AI use case identifies SSI overpayment cases that have highest expected overpayments for review. This use case contains excess overpayments by prioritizing technician review",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -514,7 +803,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case flags high likelihood favorable claims and refers them to human adjudicators for further review to determine eligibility for on-the-record hearing decisions."
+    "purpose_and_benefits": "This AI use case flags high likelihood favorable claims and refers them to human adjudicators for further review to determine eligibility for on-the-record hearing decisions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -525,7 +821,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Used to screen initial applications to identify cases where a favorable disability determination is highly likely and medical evidence is readily available to prioritize this workload and expedite case processing."
+    "purpose_and_benefits": "Used to screen initial applications to identify cases where a favorable disability determination is highly likely and medical evidence is readily available to prioritize this workload and expedite case processing.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Social Security Administration",
@@ -536,7 +839,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This AI use case is a therapy chatbot that employees can access on their own personal devices."
+    "purpose_and_benefits": "This AI use case is a therapy chatbot that employees can access on their own personal devices.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of the Treasury",
@@ -547,7 +857,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Exploring / planning potential use of generative AI to assist with contract document tasks such as:\n- Assisting with drafting contract statements of work.\n- Reviewing contracts and supporting documents for completeness, consistency, and policy compliance.\n- Reducing barriers for small businesses / new entrants to bid on Treasury contracts by offering AI powered proposal writing assistance."
+    "purpose_and_benefits": "Exploring / planning potential use of generative AI to assist with contract document tasks such as:\n- Assisting with drafting contract statements of work.\n- Reviewing contracts and supporting documents for completeness, consistency, and policy compliance.\n- Reducing barriers for small businesses / new entrants to bid on Treasury contracts by offering AI powered proposal writing assistance.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of the Treasury",
@@ -558,7 +874,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "IDMS is a vendor managed cloud platform solution which will provide an enterprise capability to process, store, retrieve, manage, and share a variety of documents.  Utilizing a Platform-as-a-Service (PaaS) model, this robust cloud-hosted platform will improve the overall document management user experience, utilizing artificial intelligence and machine learning to automate extraction, processing, and analyzing of critical data from multiple structured and unstructured formats.  In this way, IDMS will minimize the need for manual document processing, scaling to rapidly process large volumes of data accurately, reducing data processing costs and swiftly delivering responses with detailed and relevant information.  This allows the customer to review the AI output to enhance their decision-making process.  The initial customer is the Office of Chief Counsel. IDMS will integrate with existing and future critical business platforms to provide a seamless end-to-end user experience."
+    "purpose_and_benefits": "IDMS is a vendor managed cloud platform solution which will provide an enterprise capability to process, store, retrieve, manage, and share a variety of documents.  Utilizing a Platform-as-a-Service (PaaS) model, this robust cloud-hosted platform will improve the overall document management user experience, utilizing artificial intelligence and machine learning to automate extraction, processing, and analyzing of critical data from multiple structured and unstructured formats.  In this way, IDMS will minimize the need for manual document processing, scaling to rapidly process large volumes of data accurately, reducing data processing costs and swiftly delivering responses with detailed and relevant information.  This allows the customer to review the AI output to enhance their decision-making process.  The initial customer is the Office of Chief Counsel. IDMS will integrate with existing and future critical business platforms to provide a seamless end-to-end user experience.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "United States Agency for International Development",
@@ -569,7 +890,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Strengthen the capabilities of the Attorney General's Office for the investigation and prosecution of environmental crimes, with emphasis on deforestation in the Colombian Amazon, by improving technical, technological and human capabilities, facilitating an effective approach to criminal types and identification and prosecution of major drivers of these behaviors."
+    "purpose_and_benefits": "Strengthen the capabilities of the Attorney General's Office for the investigation and prosecution of environmental crimes, with emphasis on deforestation in the Colombian Amazon, by improving technical, technological and human capabilities, facilitating an effective approach to criminal types and identification and prosecution of major drivers of these behaviors.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "United States Agency for International Development",
@@ -580,7 +908,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "To provide smoother interaction in a chatbot that guides teachers to options for interventions to reduce the likelihood of student dropout"
+    "purpose_and_benefits": "To provide smoother interaction in a chatbot that guides teachers to options for interventions to reduce the likelihood of student dropout",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "United States Agency for International Development",
@@ -591,7 +924,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "TestGorilla is a pre-employment testing platform that enables companies to assess candidates' skills and aptitudes through a variety of tests, including cognitive ability, programming, software proficiency, personality, and culture fit assessments. By focusing on objective skills evaluations, TestGorilla aims to reduce reliance on traditional resumes, thereby minimizing biases and enhancing the efficiency of the hiring process."
+    "purpose_and_benefits": "TestGorilla is a pre-employment testing platform that enables companies to assess candidates' skills and aptitudes through a variety of tests, including cognitive ability, programming, software proficiency, personality, and culture fit assessments. By focusing on objective skills evaluations, TestGorilla aims to reduce reliance on traditional resumes, thereby minimizing biases and enhancing the efficiency of the hiring process.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Agriculture",
@@ -602,7 +940,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The purpose of this system is to conduct facial recognition video surveillance to provide enhanced security. Benefits include reduced labor hours for technicians and augmented surveillance capability."
+    "purpose_and_benefits": "The purpose of this system is to conduct facial recognition video surveillance to provide enhanced security. Benefits include reduced labor hours for technicians and augmented surveillance capability.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Agriculture",
@@ -613,7 +957,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This project aims to measure the use of cover crops on farms in the U.S. Midwest by creating yearly maps showing cover crops in the fall and spring. These maps are made using satellite images and models of plant growth. This data helps the agency independently check and track how many farmers are using cover crops, reducing the need for on-site visits to determine if cover crops are present on a field."
+    "purpose_and_benefits": "This project aims to measure the use of cover crops on farms in the U.S. Midwest by creating yearly maps showing cover crops in the fall and spring. These maps are made using satellite images and models of plant growth. This data helps the agency independently check and track how many farmers are using cover crops, reducing the need for on-site visits to determine if cover crops are present on a field.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Agriculture",
@@ -624,7 +974,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This project aims to find out the planting dates for corn, soybean, and winter wheat on farms in the U.S. Midwest. Maps containing planting dates are made using satellite images and models of plant growth. This data helps the agency independently check and confirm the planting dates reported by farmers to ensure the integrity of their programs, reducing the need for on-site visits to determine when a field was planted."
+    "purpose_and_benefits": "This project aims to find out the planting dates for corn, soybean, and winter wheat on farms in the U.S. Midwest. Maps containing planting dates are made using satellite images and models of plant growth. This data helps the agency independently check and confirm the planting dates reported by farmers to ensure the integrity of their programs, reducing the need for on-site visits to determine when a field was planted.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Agriculture",
@@ -635,7 +991,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This project uses satellite images and plant growth models to check if the reported sizes of farm fields and the types of crops grown match what is actually seen on the ground in the U.S. Midwest. This data helps the agency independently verify the accuracy of reported field sizes and crop types, supporting efforts to ensure the integrity of their programs."
+    "purpose_and_benefits": "This project uses satellite images and plant growth models to check if the reported sizes of farm fields and the types of crops grown match what is actually seen on the ground in the U.S. Midwest. This data helps the agency independently verify the accuracy of reported field sizes and crop types, supporting efforts to ensure the integrity of their programs.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Federal Deposit Insurance Corporation",
@@ -646,7 +1008,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The Automatically-Scored Writing Assessment (AWA) is intended to significantly increase speed and reduce cost of essay scoring for the purpose of employment decisions."
+    "purpose_and_benefits": "The Automatically-Scored Writing Assessment (AWA) is intended to significantly increase speed and reduce cost of essay scoring for the purpose of employment decisions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -657,7 +1025,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "A machine learning and natural language processing algorithm will be trained to provide real-time prompts of resources to improve the quality of crisis calls for the Veterans Crisis Line (VCL). Curated, vetted resources will be prompted by keywords for responders to consider during a crisis call. Natural language processing will be used to listen and document during and after the call, organizing the documentation to include topic areas and key points. This will decrease the time spent on documentation, improve the responder workflow, and provide needed downtime for responders to debrief with colleagues and take breaks. Additionally, the chat bot could detect the need for supervisory support during a call, improving real-time communication between a VCL responder and their supervisor. The use cases for the AI will be reviewed by VA experts and subject matter experts, with the draft use cases requiring technical steps to build, pilot test, and refine."
+    "purpose_and_benefits": "A machine learning and natural language processing algorithm will be trained to provide real-time prompts of resources to improve the quality of crisis calls for the Veterans Crisis Line (VCL). Curated, vetted resources will be prompted by keywords for responders to consider during a crisis call. Natural language processing will be used to listen and document during and after the call, organizing the documentation to include topic areas and key points. This will decrease the time spent on documentation, improve the responder workflow, and provide needed downtime for responders to debrief with colleagues and take breaks. Additionally, the chat bot could detect the need for supervisory support during a call, improving real-time communication between a VCL responder and their supervisor. The use cases for the AI will be reviewed by VA experts and subject matter experts, with the draft use cases requiring technical steps to build, pilot test, and refine.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -668,7 +1042,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "To deliver additional timely options for patients that are having mental or physical issues during appointment signup."
+    "purpose_and_benefits": "To deliver additional timely options for patients that are having mental or physical issues during appointment signup.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -679,7 +1059,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "VBA\ufffds POI is a transformative effort that seeks a Managed Services Provider (MSP) to convert an existing manual business process into automated processing of Pension and Survivor claims. The goal is to have 75% of claims completed by automation with claims processing quality that is equivalent to, or greater than, existing manual processes."
+    "purpose_and_benefits": "VBA\ufffds POI is a transformative effort that seeks a Managed Services Provider (MSP) to convert an existing manual business process into automated processing of Pension and Survivor claims. The goal is to have 75% of claims completed by automation with claims processing quality that is equivalent to, or greater than, existing manual processes.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -690,7 +1077,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Medallia is a customer experience management platform which can leverage AI (NLP) to review survey comments for actioning.   VSignal survey comments (from Veterans) are processed by NLP to HELP determine if a Veteran is potentially in risk of crisis (related to homelessness and mental health).   If NLP flags a comment as a potential risk, a case is created and sent to the Crisis Line and Homeless Program for review and actioning."
+    "purpose_and_benefits": "Medallia is a customer experience management platform which can leverage AI (NLP) to review survey comments for actioning.   VSignal survey comments (from Veterans) are processed by NLP to HELP determine if a Veteran is potentially in risk of crisis (related to homelessness and mental health).   If NLP flags a comment as a potential risk, a case is created and sent to the Crisis Line and Homeless Program for review and actioning.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -701,7 +1094,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "To accurately recognize/classify a number of different activities of daily living (walking, standing, sitting, lying down, etc.) using accelerometry/gyroscopic data. This could be used in a number of different applications."
+    "purpose_and_benefits": "To accurately recognize/classify a number of different activities of daily living (walking, standing, sitting, lying down, etc.) using accelerometry/gyroscopic data. This could be used in a number of different applications.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -712,7 +1111,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The purpose of the AI is to automate aspects of NCA benefits and application processing.  Currently it is applicable to the Pre-Need and Presidential Memorial Certificate programs. In the future other business lines may be included, such as the Headstones, Markers, Medallions, and Urns and Plaques programs. This benefits NCA by automating aspects of the workload (data entry, case creation, document digitization, letter creation, status updates)."
+    "purpose_and_benefits": "The purpose of the AI is to automate aspects of NCA benefits and application processing.  Currently it is applicable to the Pre-Need and Presidential Memorial Certificate programs. In the future other business lines may be included, such as the Headstones, Markers, Medallions, and Urns and Plaques programs. This benefits NCA by automating aspects of the workload (data entry, case creation, document digitization, letter creation, status updates).",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -723,7 +1129,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "This project is part of the Unified Communications goal of modernizing call centers. AI (as NLU/NLP) can expedite triage, improve caller-to-agent matching, and handle routine tasks (through APIs) without agent support."
+    "purpose_and_benefits": "This project is part of the Unified Communications goal of modernizing call centers. AI (as NLU/NLP) can expedite triage, improve caller-to-agent matching, and handle routine tasks (through APIs) without agent support.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -734,7 +1146,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "PHAIMIS will be an AI-powered inventory management system to centralize and optimize inventory processes within the VA Pharmacy Service. This system will integrate AI and data analytics to streamline inventory management, provide real-time notifications, and enhance user experience through seamless integration into existing workflows."
+    "purpose_and_benefits": "PHAIMIS will be an AI-powered inventory management system to centralize and optimize inventory processes within the VA Pharmacy Service. This system will integrate AI and data analytics to streamline inventory management, provide real-time notifications, and enhance user experience through seamless integration into existing workflows.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -745,7 +1163,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Extract clinical data elements from unstructured clinical note text into structured and semi-structured formats, mapping to standardized terminologies, thus making unstructured note text available to downstream analytics processes and clinical information systems."
+    "purpose_and_benefits": "Extract clinical data elements from unstructured clinical note text into structured and semi-structured formats, mapping to standardized terminologies, thus making unstructured note text available to downstream analytics processes and clinical information systems.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -756,7 +1180,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "It creates an AI driven orchestration layer and generative AI summary for  automating computer vision models with saved dicom diagnostic images."
+    "purpose_and_benefits": "It creates an AI driven orchestration layer and generative AI summary for  automating computer vision models with saved dicom diagnostic images.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -767,7 +1197,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Criminals make direct deposit (DD) changes to steal Veterans\ufffd benefit payments. Most direct deposit changes are safe, but 1-2 out of 1,000 (.1% - .2%) are fraudulent. The goal of the Payment Redirect Fraud (PRF) model is to identify which DD changes are likely to be fraudulent and refer them to team investigators for review and remediation."
+    "purpose_and_benefits": "Criminals make direct deposit (DD) changes to steal Veterans\ufffd benefit payments. Most direct deposit changes are safe, but 1-2 out of 1,000 (.1% - .2%) are fraudulent. The goal of the Payment Redirect Fraud (PRF) model is to identify which DD changes are likely to be fraudulent and refer them to team investigators for review and remediation.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -778,7 +1215,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Mental Health is important for cancer patients and could be barrier for effective and timely cancer care. Approximately one-third of persons with cancer will develop a mood or anxiety disorder. Mental health of Veterans with cancer is a priority for the VA National Oncology Program. We have been tasked to develop and implement a health information technology tool that will facilitate the effectiveness and efficiency of mental health providers embedded in cancer clinics, such as the one embedded in the Oncology clinic in the Durham VA. One of the challenges he faces is to identify patients that are most likely to benefit from the intervention. We aim to use AI to extract patients\ufffd symptom burden information including the symptoms related to mental health needs from clinical notes and surface them for the embedded mental health provider. \nNational oncology program embedded mental health specialists and nurse coordinators will review the information, allowing them to efficiently identify Veterans that may benefit from additional support for symptom management or mental health. This could allow embedded mental health specialists to monitor cancer patients among veterans at a higher risk level more closely and provide the most appropriate level of care. It could also potentially help veterans have increased cancer treatment engagement and quality of care, which are essential for cancer patients\ufffd disease prognosis."
+    "purpose_and_benefits": "Mental Health is important for cancer patients and could be barrier for effective and timely cancer care. Approximately one-third of persons with cancer will develop a mood or anxiety disorder. Mental health of Veterans with cancer is a priority for the VA National Oncology Program. We have been tasked to develop and implement a health information technology tool that will facilitate the effectiveness and efficiency of mental health providers embedded in cancer clinics, such as the one embedded in the Oncology clinic in the Durham VA. One of the challenges he faces is to identify patients that are most likely to benefit from the intervention. We aim to use AI to extract patients\ufffd symptom burden information including the symptoms related to mental health needs from clinical notes and surface them for the embedded mental health provider. \nNational oncology program embedded mental health specialists and nurse coordinators will review the information, allowing them to efficiently identify Veterans that may benefit from additional support for symptom management or mental health. This could allow embedded mental health specialists to monitor cancer patients among veterans at a higher risk level more closely and provide the most appropriate level of care. It could also potentially help veterans have increased cancer treatment engagement and quality of care, which are essential for cancer patients\ufffd disease prognosis.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -789,7 +1232,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Mail Automation Services (MAS) is a ITTT service for intake of VA Claims materials as well as other Veteran, VSO, and stakeholder submissions.  The platform ingests and reviews 25k to 40k packets of information per day, primarily derived from the Centralized Mail Portal.  Utilizing prescribed machine learning and Natural Language Processing (NLP), MAS utilizes Intelligent Form Recognition (IFR), Optical Character Recognition (OCR), Intelligent Character Recognition (ICR), and NLP to extract an average of 95 fields on over 1500 form layouts within VA\ufffds purview."
+    "purpose_and_benefits": "Mail Automation Services (MAS) is a ITTT service for intake of VA Claims materials as well as other Veteran, VSO, and stakeholder submissions.  The platform ingests and reviews 25k to 40k packets of information per day, primarily derived from the Centralized Mail Portal.  Utilizing prescribed machine learning and Natural Language Processing (NLP), MAS utilizes Intelligent Form Recognition (IFR), Optical Character Recognition (OCR), Intelligent Character Recognition (ICR), and NLP to extract an average of 95 fields on over 1500 form layouts within VA\ufffds purview.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -800,7 +1250,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Function of the system is generative AI use and derivatives to assist VA personnel. Inputs to the model include policy, procedure, and other knowledge management documents such as CFR database knowledge and user entered inquiries."
+    "purpose_and_benefits": "Function of the system is generative AI use and derivatives to assist VA personnel. Inputs to the model include policy, procedure, and other knowledge management documents such as CFR database knowledge and user entered inquiries.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -811,7 +1267,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "The AI use is to improve autonomous bite acquisition by robotic arm as well as to improve transfer to the participant's mouth.  Inputs include video analysis of caretakers administering/transferring bite to participants, as well as a web interface where feedback from stakeholders will be collected to improve the robotic arm's actions and to provide additional contextual information for bite acquisition and transfer.  This information will be used by the AI to improve the robotic arms autonomous functions of bite acquisition and transfer.\n\nThe ultimate goal of the robotic arm function is to provide autonomous or semi-autonomous support to improve functional independence for patients with upper extremity weakness from spinal cord injury or other causes."
+    "purpose_and_benefits": "The AI use is to improve autonomous bite acquisition by robotic arm as well as to improve transfer to the participant's mouth.  Inputs include video analysis of caretakers administering/transferring bite to participants, as well as a web interface where feedback from stakeholders will be collected to improve the robotic arm's actions and to provide additional contextual information for bite acquisition and transfer.  This information will be used by the AI to improve the robotic arms autonomous functions of bite acquisition and transfer.\n\nThe ultimate goal of the robotic arm function is to provide autonomous or semi-autonomous support to improve functional independence for patients with upper extremity weakness from spinal cord injury or other causes.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -822,7 +1284,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Background: Pact Act Co-Pay exemption determination is currently a manual process, and some veterans may not know if they had toxic exposure and may be eligible for co-pay exemption.\nObjective: Develop an algorithm for the PACT Act to predict if patients are eligible for co-pay exemption."
+    "purpose_and_benefits": "Background: Pact Act Co-Pay exemption determination is currently a manual process, and some veterans may not know if they had toxic exposure and may be eligible for co-pay exemption.\nObjective: Develop an algorithm for the PACT Act to predict if patients are eligible for co-pay exemption.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -833,7 +1301,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Background: Pact Act Co-Pay exemption determination is currently a manual process, and some veterans may not know if they had toxic exposure and may be eligible for co-pay exemption.\nObjective: Develop an algorithm for the PACT Act to predict if patients are eligible for co-pay exemption."
+    "purpose_and_benefits": "Background: Pact Act Co-Pay exemption determination is currently a manual process, and some veterans may not know if they had toxic exposure and may be eligible for co-pay exemption.\nObjective: Develop an algorithm for the PACT Act to predict if patients are eligible for co-pay exemption.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Veterans Affairs",
@@ -844,7 +1318,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Intended purpose: To develop a computer vision framework (CVF) to classify medical test images in the VHA.\nBenefits: Disease related decision generation from the medical test image."
+    "purpose_and_benefits": "Intended purpose: To develop a computer vision framework (CVF) to classify medical test images in the VHA.\nBenefits: Disease related decision generation from the medical test image.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -855,7 +1335,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The purpose of the AI use case in CargoNet is to detect and interpret patterns within logistics and theft incident data, automating the process of identifying unusual activities or recurring risks. By using AI for pattern recognition and anomaly detection, the system reduces the need for manual data sorting, improves the reliability of its findings, and focuses investigative resources where they are most needed. Ultimately, this approach elevates efficiency, accuracy, and responsiveness in addressing crime related to cargo security.\n\nExpected benefits: The expected benefit is focusing efforts on deviating areas/goods/patterns to improve effectiveness of subsequent steps."
+    "purpose_and_benefits": "Purpose: The purpose of the AI use case in CargoNet is to detect and interpret patterns within logistics and theft incident data, automating the process of identifying unusual activities or recurring risks. By using AI for pattern recognition and anomaly detection, the system reduces the need for manual data sorting, improves the reliability of its findings, and focuses investigative resources where they are most needed. Ultimately, this approach elevates efficiency, accuracy, and responsiveness in addressing crime related to cargo security.\n\nExpected benefits: The expected benefit is focusing efforts on deviating areas/goods/patterns to improve effectiveness of subsequent steps.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -866,7 +1353,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: This capability is not provided or managed by ATF. It provides ATF staff read-only access to Cell Hawk data which is provided and managed by High Intensity Drug Trafficking Area (HIDTA) partner agencies.\n\nExpected benefits: Link and trend analysis results provided by this system provide law enforcement personnel with increased insights into subjects' activities in the context of criminal investigations."
+    "purpose_and_benefits": "Purpose: This capability is not provided or managed by ATF. It provides ATF staff read-only access to Cell Hawk data which is provided and managed by High Intensity Drug Trafficking Area (HIDTA) partner agencies.\n\nExpected benefits: Link and trend analysis results provided by this system provide law enforcement personnel with increased insights into subjects' activities in the context of criminal investigations.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -877,7 +1371,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Coinbase applies machine learning and analytical models to digital asset transactional data, identifying unusual or high-risk activities more swiftly. By automating anomaly detection, risk scoring, and pattern recognition, the system minimizes manual review, speeds up the detection of irregular transactions, and increases analytical accuracy. This leads to more efficient resource use, reduced human error, and a strategic focus on transactions that genuinely require closer examination.\n\nExpected benefits: The expected benefit is more efficient resource allocation, prioritizing unusual transactions over a full review."
+    "purpose_and_benefits": "Purpose: Coinbase applies machine learning and analytical models to digital asset transactional data, identifying unusual or high-risk activities more swiftly. By automating anomaly detection, risk scoring, and pattern recognition, the system minimizes manual review, speeds up the detection of irregular transactions, and increases analytical accuracy. This leads to more efficient resource use, reduced human error, and a strategic focus on transactions that genuinely require closer examination.\n\nExpected benefits: The expected benefit is more efficient resource allocation, prioritizing unusual transactions over a full review.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -888,7 +1389,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The purpose of the AI use case in Dun & Bradstreet Business Establishments Data is to analyze business information, detect irregularities, and assess potential risks more efficiently. AI-driven data integration, anomaly detection, and trend analysis automate what would otherwise be intensive manual evaluations. This approach improves the speed and reliability of identification of questionable business activities, aids resource prioritization, and heightens overall accuracy and responsiveness in addressing potential issues.\n\nExpected benefits: The expected benefit is more directed attention on atypical organizations, improving efficiency and reducing randomness."
+    "purpose_and_benefits": "Purpose: The purpose of the AI use case in Dun & Bradstreet Business Establishments Data is to analyze business information, detect irregularities, and assess potential risks more efficiently. AI-driven data integration, anomaly detection, and trend analysis automate what would otherwise be intensive manual evaluations. This approach improves the speed and reliability of identification of questionable business activities, aids resource prioritization, and heightens overall accuracy and responsiveness in addressing potential issues.\n\nExpected benefits: The expected benefit is more directed attention on atypical organizations, improving efficiency and reducing randomness.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -899,7 +1407,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: ATF's use of Axon body-worn cameras and the associated evidence.com service are integral to ensuring ATF's compliance with  Executive Order 14074 and DOJ policy documented in DOJ OIG, Inspector General Manual, Volume III, Chapter 236, Body Worn Camera Program. Body camera videos are transferred to the Axon Evidence.com service, which includes AI-based features for performing recognition of heads in videos for the purpose of redaction. ATF has performed limited testing of these capabilities, but is not operationally using them.\n\nExpected benefits: Evidence.com provides AI-based features that identify the presence of heads in videos and can perform automated redaction. This would increase the efficiency of redacting video evidence for release. However, ATF is not operationally using them."
+    "purpose_and_benefits": "Purpose: ATF's use of Axon body-worn cameras and the associated evidence.com service are integral to ensuring ATF's compliance with  Executive Order 14074 and DOJ policy documented in DOJ OIG, Inspector General Manual, Volume III, Chapter 236, Body Worn Camera Program. Body camera videos are transferred to the Axon Evidence.com service, which includes AI-based features for performing recognition of heads in videos for the purpose of redaction. ATF has performed limited testing of these capabilities, but is not operationally using them.\n\nExpected benefits: Evidence.com provides AI-based features that identify the presence of heads in videos and can perform automated redaction. This would increase the efficiency of redacting video evidence for release. However, ATF is not operationally using them.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -910,7 +1425,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The AI features in LexisNexis Accurint merge and analyze an array of public and proprietary records to build a clearer picture of individuals and entities. By automating data integration, filtering, and pattern recognition, it expedites the identification of relevant subjects and connections. This advanced approach reduces manual searching, enhances accuracy in linking data points, and strategically directs focus toward high-value leads, improving overall investigative efficiency and decision-making.\n\nExpected benefits: The expected benefit is accelerated identification of important figures/relationships, replacing inefficient manual searches across disconnected datasets."
+    "purpose_and_benefits": "Purpose: The AI features in LexisNexis Accurint merge and analyze an array of public and proprietary records to build a clearer picture of individuals and entities. By automating data integration, filtering, and pattern recognition, it expedites the identification of relevant subjects and connections. This advanced approach reduces manual searching, enhances accuracy in linking data points, and strategically directs focus toward high-value leads, improving overall investigative efficiency and decision-making.\n\nExpected benefits: The expected benefit is accelerated identification of important figures/relationships, replacing inefficient manual searches across disconnected datasets.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -921,7 +1443,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: LexisNexis Babel Street leverages advanced analytics on publicly available data, automating the identification of meaningful patterns, entities, and relationships. By integrating AI-driven classification, trend detection, and data correlation, the system enhances investigative and analytical workflows. This approach reduces manual effort, improves accuracy in pinpointing relevant insights, and optimizes resource allocation. Overall, the AI capabilities aim to streamline data exploration, increase operational efficiency, and support more informed decision-making.\n\nExpected benefits: The expected benefit is more efficient identification of significant topics/entities, focusing time/resources effectively."
+    "purpose_and_benefits": "Purpose: LexisNexis Babel Street leverages advanced analytics on publicly available data, automating the identification of meaningful patterns, entities, and relationships. By integrating AI-driven classification, trend detection, and data correlation, the system enhances investigative and analytical workflows. This approach reduces manual effort, improves accuracy in pinpointing relevant insights, and optimizes resource allocation. Overall, the AI capabilities aim to streamline data exploration, increase operational efficiency, and support more informed decision-making.\n\nExpected benefits: The expected benefit is more efficient identification of significant topics/entities, focusing time/resources effectively.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -932,7 +1461,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The AI features of Mark43 Public Safety Records organize, categorize, and correlate extensive law enforcement data from various sources. By employing AI-driven classification, entity resolution, and data linking, it reduces the manual workload needed to extract meaningful insights. This empowers users to identify key relationships and patterns more rapidly, increases data accuracy, and supports more strategic use of investigative resources, ultimately improving both timeliness and quality of public safety operations.\n\nExpected benefits: The expected benefit is less guesswork, allowing focus on data likely to yield meaningful insights."
+    "purpose_and_benefits": "Purpose: The AI features of Mark43 Public Safety Records organize, categorize, and correlate extensive law enforcement data from various sources. By employing AI-driven classification, entity resolution, and data linking, it reduces the manual workload needed to extract meaningful insights. This empowers users to identify key relationships and patterns more rapidly, increases data accuracy, and supports more strategic use of investigative resources, ultimately improving both timeliness and quality of public safety operations.\n\nExpected benefits: The expected benefit is less guesswork, allowing focus on data likely to yield meaningful insights.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -943,7 +1479,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The purpose of the AI features in National Insurance Crime Bureau ISO ClaimSearch is to analyze insurance claim data and highlight suspicious patterns or anomalies more efficiently. By applying AI-driven pattern recognition, risk assessment, and anomaly detection, this tool streamlines what would be a lengthy manual review process. This leads to faster fraud identification, more accurate identification of problematic claims, and better resource utilization, ultimately strengthening investigative outcomes.\n\nExpected benefits: The expected benefit is more effective resource use, identifying claims that differ from typical patterns."
+    "purpose_and_benefits": "Purpose: The purpose of the AI features in National Insurance Crime Bureau ISO ClaimSearch is to analyze insurance claim data and highlight suspicious patterns or anomalies more efficiently. By applying AI-driven pattern recognition, risk assessment, and anomaly detection, this tool streamlines what would be a lengthy manual review process. This leads to faster fraud identification, more accurate identification of problematic claims, and better resource utilization, ultimately strengthening investigative outcomes.\n\nExpected benefits: The expected benefit is more effective resource use, identifying claims that differ from typical patterns.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -954,7 +1497,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The purpose of this AI use case is to improve the efficiency of tracing firearms using Gun Control Act (GCA) forms submitted to ATF by Federal Firearms Licensees (FFLs) that go out of business. Adhering to a Congressional restriction and consistent with previously audited (United States Government Accountability Office (GAO)) data systems, the AI use case is designed to only recognize specific data fields while ensuring no personal or identifying information about individuals is captured or searchable.\n\nUsing AI, the system recognizes the structure of various versions of GCA forms stored in the Out-of-Business Records. It extracts designated pixel data and converts it into searchable text through an optical character recognition (OCR) engine. This information is then indexed, allowing for faster and more efficient firearm trace searches. By automating this process and focusing exclusively on certain data, the system improves tracing speed and accuracy while also complying with the strict data restrictions for records submitted by out-of-business FFLs.\n\nExpected benefits: The AI system is expected to significantly enhance ATF\ufffds ability to fulfill its mission of supporting criminal investigations and promoting public safety by improving the efficiency of firearm tracing. Automating aspects of the search process will reduce the time, effort, and costs associated with manually sifting through millions of scanned forms. ATF will be able to respond to crime gun trace requests quicker, enabling law enforcement to act faster in solving crimes.\n\nThe system also ensures that only authorized data are processed and maintains compliance with all statutory restrictions. For the general public, these improvements translate to enhanced public safety through more efficient crime resolution and resource optimization. The system promotes a more effective and focused use of ATF resources, ultimately contributing to the Department of Justice\ufffds broader mission of enforcing the law and ensuring public safety."
+    "purpose_and_benefits": "Purpose: The purpose of this AI use case is to improve the efficiency of tracing firearms using Gun Control Act (GCA) forms submitted to ATF by Federal Firearms Licensees (FFLs) that go out of business. Adhering to a Congressional restriction and consistent with previously audited (United States Government Accountability Office (GAO)) data systems, the AI use case is designed to only recognize specific data fields while ensuring no personal or identifying information about individuals is captured or searchable.\n\nUsing AI, the system recognizes the structure of various versions of GCA forms stored in the Out-of-Business Records. It extracts designated pixel data and converts it into searchable text through an optical character recognition (OCR) engine. This information is then indexed, allowing for faster and more efficient firearm trace searches. By automating this process and focusing exclusively on certain data, the system improves tracing speed and accuracy while also complying with the strict data restrictions for records submitted by out-of-business FFLs.\n\nExpected benefits: The AI system is expected to significantly enhance ATF\ufffds ability to fulfill its mission of supporting criminal investigations and promoting public safety by improving the efficiency of firearm tracing. Automating aspects of the search process will reduce the time, effort, and costs associated with manually sifting through millions of scanned forms. ATF will be able to respond to crime gun trace requests quicker, enabling law enforcement to act faster in solving crimes.\n\nThe system also ensures that only authorized data are processed and maintains compliance with all statutory restrictions. For the general public, these improvements translate to enhanced public safety through more efficient crime resolution and resource optimization. The system promotes a more effective and focused use of ATF resources, ultimately contributing to the Department of Justice\ufffds broader mission of enforcing the law and ensuring public safety.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -965,7 +1514,13 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The Operational Planning Analytics Risk Management Solution (OPARMS) creates operation plans within ATF's case management system, Spartan, eliminating previous pdf-based operation plans. OPARMS will also provide dashboard overviews of the operation plans and risk data for all operation plans. AI-based features for analyzing operational planning metrics and strategies are being evaluated, but have not been implemented.\n\nExpected benefits: Improve operational planning, data collection, and risk mitigation. Reduce time to fill out operation plans. Increase accuracy of data entered into operation plans by populating info from Spartan. Reduce approval times by routing and tracking operation plans through OPARMS. Increase collection of operations planning and after action reports by making these forms mandatory in order to close out an operation. Collect and store data to begin developing the analytics for calculating and identifying risk in operations allowing team members to better mitigate those risks."
+    "purpose_and_benefits": "Purpose: The Operational Planning Analytics Risk Management Solution (OPARMS) creates operation plans within ATF's case management system, Spartan, eliminating previous pdf-based operation plans. OPARMS will also provide dashboard overviews of the operation plans and risk data for all operation plans. AI-based features for analyzing operational planning metrics and strategies are being evaluated, but have not been implemented.\n\nExpected benefits: Improve operational planning, data collection, and risk mitigation. Reduce time to fill out operation plans. Increase accuracy of data entered into operation plans by populating info from Spartan. Reduce approval times by routing and tracking operation plans through OPARMS. Increase collection of operations planning and after action reports by making these forms mandatory in order to close out an operation. Collect and store data to begin developing the analytics for calculating and identifying risk in operations allowing team members to better mitigate those risks.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -976,7 +1531,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: This use case is being reported because Palantir has AI-based capabilities. However, ATF only accesses Palantir through task force partnerships with a state law enforcement (LE) partner. The state LE agency uses Palantir as its case management system, and ATF's use is limited to searching for information which the state LE agency chooses to share with law enforcement partners. ATF has no involvement with or any knowledge of use of AI features by the state agency which runs the system.\n\nExpected benefits: ATF use of the state LE partner Palantir system is limited to searching for information which the state agency chooses to share with law enforcement partners. ATF has no involvement with, any knowledge of, or any expected benefits from use of AI by the state agency which runs the system."
+    "purpose_and_benefits": "Purpose: This use case is being reported because Palantir has AI-based capabilities. However, ATF only accesses Palantir through task force partnerships with a state law enforcement (LE) partner. The state LE agency uses Palantir as its case management system, and ATF's use is limited to searching for information which the state LE agency chooses to share with law enforcement partners. ATF has no involvement with or any knowledge of use of AI features by the state agency which runs the system.\n\nExpected benefits: ATF use of the state LE partner Palantir system is limited to searching for information which the state agency chooses to share with law enforcement partners. ATF has no involvement with, any knowledge of, or any expected benefits from use of AI by the state agency which runs the system.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -987,7 +1549,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: ATF uses the Southwest Border Transaction Record Analysis Center (SWBTRAC) to monitor cross-border financial transactions and identify unusual activities more efficiently. By integrating AI-driven anomaly detection, trend analysis, and risk scoring, it simplifies manual review and directs attention to truly irregular transfers. This approach ensures that investigative focus is applied judiciously, improves accuracy, and enhances strategic use of resources in addressing cross-border financial concerns.\n\nExpected benefits: The expected benefit is faster recognition of outlier scenarios, focusing investigative resources on pertinent transactions."
+    "purpose_and_benefits": "Purpose: ATF uses the Southwest Border Transaction Record Analysis Center (SWBTRAC) to monitor cross-border financial transactions and identify unusual activities more efficiently. By integrating AI-driven anomaly detection, trend analysis, and risk scoring, it simplifies manual review and directs attention to truly irregular transfers. This approach ensures that investigative focus is applied judiciously, improves accuracy, and enhances strategic use of resources in addressing cross-border financial concerns.\n\nExpected benefits: The expected benefit is faster recognition of outlier scenarios, focusing investigative resources on pertinent transactions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -998,7 +1567,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: ATF uses Spokeo to aggregate and enrich publicly accessible personal data to create comprehensive profiles of individuals related to investigations. AI-based entity resolution, data linkage, and pattern recognition automate the task of piecing together scattered details. This tool significantly reduces manual workload, sharpens the accuracy of identifying individuals of interest, and ensures that investigative energies are invested where they can yield the most valuable insights.\n\nExpected benefits: The expected benefit is quicker access to comprehensive background details, easily identifying individuals of interest."
+    "purpose_and_benefits": "Purpose: ATF uses Spokeo to aggregate and enrich publicly accessible personal data to create comprehensive profiles of individuals related to investigations. AI-based entity resolution, data linkage, and pattern recognition automate the task of piecing together scattered details. This tool significantly reduces manual workload, sharpens the accuracy of identifying individuals of interest, and ensures that investigative energies are invested where they can yield the most valuable insights.\n\nExpected benefits: The expected benefit is quicker access to comprehensive background details, easily identifying individuals of interest.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1009,7 +1585,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Thomson Reuters Clear consolidates and analyzes diverse records, creating coherent profiles of individuals and entities. By applying AI-driven data integration, entity resolution, and intelligent filtering, it automates traditionally manual tasks. This leads to faster identification of subjects of interest, improved accuracy in linking related data points, and a more strategic use of time and resources. Ultimately, AI integration enhances investigative effectiveness, reduces errors, and supports more focused research.\n\nExpected benefits: The expected benefit is reduced manual effort, enabling quicker discovery of relevant profiles and relationships."
+    "purpose_and_benefits": "Purpose: Thomson Reuters Clear consolidates and analyzes diverse records, creating coherent profiles of individuals and entities. By applying AI-driven data integration, entity resolution, and intelligent filtering, it automates traditionally manual tasks. This leads to faster identification of subjects of interest, improved accuracy in linking related data points, and a more strategic use of time and resources. Ultimately, AI integration enhances investigative effectiveness, reduces errors, and supports more focused research.\n\nExpected benefits: The expected benefit is reduced manual effort, enabling quicker discovery of relevant profiles and relationships.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1020,7 +1603,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The purpose of the AI use case in TransUnion TLOxp Online Investigative Services is to gather and analyze diverse personal, financial, and asset-related data more effectively. By implementing AI for entity resolution, risk scoring, and pattern detection, this tool replaces manual data handling with automated insights. This tool accelerates the discovery of meaningful leads, reduces errors, and ensures attention is concentrated on cases truly warranting further review, improving both accuracy and resource allocation.\n\nExpected benefits: The expected benefit is better use of time and effort, focusing on subjects and data points that are more relevant to investigations."
+    "purpose_and_benefits": "Purpose: The purpose of the AI use case in TransUnion TLOxp Online Investigative Services is to gather and analyze diverse personal, financial, and asset-related data more effectively. By implementing AI for entity resolution, risk scoring, and pattern detection, this tool replaces manual data handling with automated insights. This tool accelerates the discovery of meaningful leads, reduces errors, and ensures attention is concentrated on cases truly warranting further review, improving both accuracy and resource allocation.\n\nExpected benefits: The expected benefit is better use of time and effort, focusing on subjects and data points that are more relevant to investigations.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1031,7 +1621,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: ATF uses Veritone Redact to process Freedom of Information Act (FOIA) requests by automating the redaction of sensitive information within audio and video files. Utilizing advanced AI technologies, Veritone Redact aims to intelligently identify and redact personally identifiable information and other confidential content in multimedia files. This enables ATF to securely and efficiently handle FOIA requests that involve audio and video materials. The AI capabilities facilitate faster processing times and increase operational efficiency by automating a time-consuming and meticulous task. Overall, the incorporation of AI into Veritone Redact is designed to improve the efficiency, accuracy, and compliance of FOIA request processing involving multimedia content, enabling ATF to respond more promptly, reduce operational costs, and maintain higher standards of transparency and accountability. Veritone Redact is currently being configured for ATF's specific requirements and is not yet in production.\n\nExpected benefits: The expected benefits of the AI use case in Veritone Redact involve enhancing the efficiency and accuracy of redacting sensitive information within audio and video files. By automating the identification and redaction of personally identifiable information and other confidential content, the AI reduces the time and effort required from staff to process multimedia materials. This leads to faster turnaround times for releasing information, thereby reducing customer wait times for FOIA requests. The AI-driven redaction process also helps ensure compliance with privacy laws and regulations, minimizing the risk of inadvertently disclosing sensitive information. These efficiencies result in cost savings through reduced labor hours and improved resource allocation. Overall, the AI in Veritone Redact improves operational efficiency, enhances compliance, and supports timely access to information for the public."
+    "purpose_and_benefits": "Purpose: ATF uses Veritone Redact to process Freedom of Information Act (FOIA) requests by automating the redaction of sensitive information within audio and video files. Utilizing advanced AI technologies, Veritone Redact aims to intelligently identify and redact personally identifiable information and other confidential content in multimedia files. This enables ATF to securely and efficiently handle FOIA requests that involve audio and video materials. The AI capabilities facilitate faster processing times and increase operational efficiency by automating a time-consuming and meticulous task. Overall, the incorporation of AI into Veritone Redact is designed to improve the efficiency, accuracy, and compliance of FOIA request processing involving multimedia content, enabling ATF to respond more promptly, reduce operational costs, and maintain higher standards of transparency and accountability. Veritone Redact is currently being configured for ATF's specific requirements and is not yet in production.\n\nExpected benefits: The expected benefits of the AI use case in Veritone Redact involve enhancing the efficiency and accuracy of redacting sensitive information within audio and video files. By automating the identification and redaction of personally identifiable information and other confidential content, the AI reduces the time and effort required from staff to process multimedia materials. This leads to faster turnaround times for releasing information, thereby reducing customer wait times for FOIA requests. The AI-driven redaction process also helps ensure compliance with privacy laws and regulations, minimizing the risk of inadvertently disclosing sensitive information. These efficiencies result in cost savings through reduced labor hours and improved resource allocation. Overall, the AI in Veritone Redact improves operational efficiency, enhances compliance, and supports timely access to information for the public.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1042,7 +1638,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose:  Whooster integrates and analyze data from multiple sources to build comprehensive profiles on persons or entities of interest. AI-driven entity resolution, relationship mapping, and data enrichment help automate what would otherwise be manual, time-consuming cross-referencing. This improves the speed and accuracy of identifying relevant connections, ensures more directed follow-up, and optimizes the allocation of investigative resources.\n\nExpected benefits: The expected benefit is more effective use of time, focusing on particularly relevant subjects."
+    "purpose_and_benefits": "Purpose:  Whooster integrates and analyze data from multiple sources to build comprehensive profiles on persons or entities of interest. AI-driven entity resolution, relationship mapping, and data enrichment help automate what would otherwise be manual, time-consuming cross-referencing. This improves the speed and accuracy of identifying relevant connections, ensures more directed follow-up, and optimizes the allocation of investigative resources.\n\nExpected benefits: The expected benefit is more effective use of time, focusing on particularly relevant subjects.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1053,7 +1656,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Veritone Illuminate is a cloud-based application that provides machine translation and audio and video analysis transcription to aid human review in investigations. The product uses AI to systematically turn unstructured data (audio and video files) into structured data. The structured data can be easily searchable and provide more value to our cases.\n\nExpected benefits: Facilitates efficient review of unstructured data."
+    "purpose_and_benefits": "Purpose: Veritone Illuminate is a cloud-based application that provides machine translation and audio and video analysis transcription to aid human review in investigations. The product uses AI to systematically turn unstructured data (audio and video files) into structured data. The structured data can be easily searchable and provide more value to our cases.\n\nExpected benefits: Facilitates efficient review of unstructured data.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1064,7 +1674,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: CLEAR LPR enables investigators to identify location history for license plates, connect addresses and individuals of interest to a vehicle's location and obtain images of a vehicle. CRM uses CLEAR LPR to aid in investigations. \n\nExpected benefits: Streamline investigations, reducing the need to search multiple platforms, while saving costs and allowing investigators to more quickly identify relevant information."
+    "purpose_and_benefits": "Purpose: CLEAR LPR enables investigators to identify location history for license plates, connect addresses and individuals of interest to a vehicle's location and obtain images of a vehicle. CRM uses CLEAR LPR to aid in investigations. \n\nExpected benefits: Streamline investigations, reducing the need to search multiple platforms, while saving costs and allowing investigators to more quickly identify relevant information.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1075,7 +1692,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "CMS's Child Exploitation and Obscenity Section used Clearview fewer than five times in 2020 as part of evaluating and experimenting with the software. CEOS stopped using Clearview almost immediately after obtaining it, because of a reported data breach within Clearview. CEOS no longer has a Clearview license, is not using it, and does not plan to use it again."
+    "purpose_and_benefits": "CMS's Child Exploitation and Obscenity Section used Clearview fewer than five times in 2020 as part of evaluating and experimenting with the software. CEOS stopped using Clearview almost immediately after obtaining it, because of a reported data breach within Clearview. CEOS no longer has a Clearview license, is not using it, and does not plan to use it again.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1086,7 +1709,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: CRM uses Veritone to convert speech in audio or video files into text transcripts.\n\nExpected benefits: Transcribe audio and video, saving manual review time and associated costs."
+    "purpose_and_benefits": "Purpose: CRM uses Veritone to convert speech in audio or video files into text transcripts.\n\nExpected benefits: Transcribe audio and video, saving manual review time and associated costs.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1097,7 +1727,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: To automate the disqualification of reports not submitted by a human but submitted by bots.  This tool monitors submissions by bots and may eventually block that bot-associated IP addresses from submitting reports.\n\nExpected benefits: Saves pre-processing time by CRT staff and only routes actionable reports within the routing workflow."
+    "purpose_and_benefits": "Purpose: To automate the disqualification of reports not submitted by a human but submitted by bots.  This tool monitors submissions by bots and may eventually block that bot-associated IP addresses from submitting reports.\n\nExpected benefits: Saves pre-processing time by CRT staff and only routes actionable reports within the routing workflow.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1108,7 +1744,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Use natural language processing to convert spoken audio to text for employees with vision or mobility limitations.\n\nExpected benefits: Increased accessibility. Employees with a disability are provided a solution to accommodate their reasonable accommodation for Section 508 obligations."
+    "purpose_and_benefits": "Purpose: Use natural language processing to convert spoken audio to text for employees with vision or mobility limitations.\n\nExpected benefits: Increased accessibility. Employees with a disability are provided a solution to accommodate their reasonable accommodation for Section 508 obligations.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1119,7 +1761,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1130,7 +1779,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1141,7 +1797,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1152,7 +1815,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities. It requires a deep understanding of drug markets, manufacturing, and distribution channels. License Plate Readers (LPR) can be one important investigative tool to support cases.\n\nExpected benefits: License Plate Readers (LPR) can be one important investigative tool to support cases.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1163,7 +1833,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. The purpose of this use case is to compare friction ridge prints to other prints within the boundaries of a case. \n\nExpected benefits: To assist in friction ridge analyses, which can save significant amount of time and resources. It can standardize DEA's friction ridge program and reduce missed identification errors."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. The purpose of this use case is to compare friction ridge prints to other prints within the boundaries of a case. \n\nExpected benefits: To assist in friction ridge analyses, which can save significant amount of time and resources. It can standardize DEA's friction ridge program and reduce missed identification errors.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1174,7 +1850,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. DEA has dedicated personnel to review the proposed AI-generated redactions of extracted video files. Redactions are applied to a copy of the original file to ensure the raw files are not altered in the process.\n\nExpected benefits: To further DEA's mission of protecting American communities, this allows dedicated DEA personnel to review proposed relevant footage, resulting in time and cost savings. In addition, this solution helps standardize the audio/visual redaction process to produce video evidence connected to judicial processes and FOIA requests."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. DEA has dedicated personnel to review the proposed AI-generated redactions of extracted video files. Redactions are applied to a copy of the original file to ensure the raw files are not altered in the process.\n\nExpected benefits: To further DEA's mission of protecting American communities, this allows dedicated DEA personnel to review proposed relevant footage, resulting in time and cost savings. In addition, this solution helps standardize the audio/visual redaction process to produce video evidence connected to judicial processes and FOIA requests.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1185,7 +1868,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. It requires a need to understand communications within criminal operations. Multi-language machine transcription of audio files is intended to filter massive audio files to relevant data for review. This is one feature of a larger system.\n\nExpected benefits: To allow search of audio files to identify which parts of the conversations should be reviewed and interpreted officially by human translators and analysts for discovery purposes."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. It requires a need to understand communications within criminal operations. Multi-language machine transcription of audio files is intended to filter massive audio files to relevant data for review. This is one feature of a larger system.\n\nExpected benefits: To allow search of audio files to identify which parts of the conversations should be reviewed and interpreted officially by human translators and analysts for discovery purposes.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1196,7 +1885,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. Drone technology uses AI for autonomous navigation and obstacle avoidance. The purpose of this use case is to enable more proficient drone operation and to support agent safety.\n \nExpected benefits: This use case supports human drone operators and pilots in deploying drones. It reduces resources and allows trained drone operators to focus on real-time operational needs."
+    "purpose_and_benefits": "Purpose: DEA has a mission to protect communities and save lives. Drone technology uses AI for autonomous navigation and obstacle avoidance. The purpose of this use case is to enable more proficient drone operation and to support agent safety.\n \nExpected benefits: This use case supports human drone operators and pilots in deploying drones. It reduces resources and allows trained drone operators to focus on real-time operational needs.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -1207,7 +1903,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Forensic analysis tools used to extract, analyze, search, and organize digital evidence and datasets.\n\nExpected benefits: Increases the efficiency of extracting data from devices and of analyzing/searching for pertinent data within devices and datasets."
+    "purpose_and_benefits": "Purpose: Forensic analysis tools used to extract, analyze, search, and organize digital evidence and datasets.\n\nExpected benefits: Increases the efficiency of extracting data from devices and of analyzing/searching for pertinent data within devices and datasets.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1218,7 +1921,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Media monitoring service that allows users to search, analyze, and create reports using specific criteria. Facilitates searches in broadcasts, online news, social media, and podcasts. \n\nExpected benefits: Awareness of media mentions."
+    "purpose_and_benefits": "Purpose: Media monitoring service that allows users to search, analyze, and create reports using specific criteria. Facilitates searches in broadcasts, online news, social media, and podcasts. \n\nExpected benefits: Awareness of media mentions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1229,7 +1939,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Curating publicly available information to assist with litigation. \n\nExpected benefits: Provides the capability to quickly aggregate and distill publicly available data to assist with litigation."
+    "purpose_and_benefits": "Purpose: Curating publicly available information to assist with litigation. \n\nExpected benefits: Provides the capability to quickly aggregate and distill publicly available data to assist with litigation.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1240,7 +1957,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: User Behavior Analytics detect anomalies. This tool uses machine learning to identify security threats.\n\nExpected benefits: It allows large complex datasets to be analyzed effectively."
+    "purpose_and_benefits": "Purpose: User Behavior Analytics detect anomalies. This tool uses machine learning to identify security threats.\n\nExpected benefits: It allows large complex datasets to be analyzed effectively.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1251,7 +1975,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Security enhancement to Field Offices.\n\nExpected benefits: enhanced security"
+    "purpose_and_benefits": "Purpose: Security enhancement to Field Offices.\n\nExpected benefits: enhanced security",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -1262,7 +1993,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Tool to conduct authorized searches of photos of individuals pertinent to an ongoing investigation against publicly available images to generate investigative leads.\n\nExpected benefits: generation of investigative leads"
+    "purpose_and_benefits": "Purpose: Tool to conduct authorized searches of photos of individuals pertinent to an ongoing investigation against publicly available images to generate investigative leads.\n\nExpected benefits: generation of investigative leads",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1273,7 +2011,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Program uses character recognition to read and identify license plates. \n\nExpected Benefits: License plate reader technology assists in locating vehicles associated with persons of interest."
+    "purpose_and_benefits": "Purpose: Program uses character recognition to read and identify license plates. \n\nExpected Benefits: License plate reader technology assists in locating vehicles associated with persons of interest.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1284,7 +2029,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Tool facilitates audio and video recording within FBI custodial interview rooms, consistent with DOJ and FBI policy.\n\nExpected benefits: Prevents loss of required audio and video data within FBI custodial interview rooms"
+    "purpose_and_benefits": "Purpose: Tool facilitates audio and video recording within FBI custodial interview rooms, consistent with DOJ and FBI policy.\n\nExpected benefits: Prevents loss of required audio and video data within FBI custodial interview rooms",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1295,7 +2045,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Program uses character recognition to read and identify license plates. \n\nExpected Benefits: License plate reader technology assists in locating vehicles associated with persons of interest."
+    "purpose_and_benefits": "Purpose: Program uses character recognition to read and identify license plates. \n\nExpected Benefits: License plate reader technology assists in locating vehicles associated with persons of interest.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1306,7 +2063,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Program uses character recognition to read and identify license plates. \n\nExpected Benefits: License plate reader technology assists in locating vehicles associated with persons of interest."
+    "purpose_and_benefits": "Purpose: Program uses character recognition to read and identify license plates. \n\nExpected Benefits: License plate reader technology assists in locating vehicles associated with persons of interest.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1317,7 +2081,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Adobe Acrobat uses Optical Character Recognition (OCR) of scanned documents and indexes which can be searched to quickly locate information and process multiple FOIA and Privacy Act requests.\n\nExpected benefits: Efficiency and cost savings. The AI tool allows employees to search for and find information quicker than manual processes would allow."
+    "purpose_and_benefits": "Purpose: Adobe Acrobat uses Optical Character Recognition (OCR) of scanned documents and indexes which can be searched to quickly locate information and process multiple FOIA and Privacy Act requests.\n\nExpected benefits: Efficiency and cost savings. The AI tool allows employees to search for and find information quicker than manual processes would allow.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1328,7 +2099,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The systems enable FBOP employees to configure the environmental conditions, including AI-enabled security features.\n\nExpected benefits: Reduce energy consumption and waste, monitor performance, and alerts for device failures."
+    "purpose_and_benefits": "Purpose: The systems enable FBOP employees to configure the environmental conditions, including AI-enabled security features.\n\nExpected benefits: Reduce energy consumption and waste, monitor performance, and alerts for device failures.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -1339,7 +2117,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Staff have periodically used Google Translate to translate documents and notifications for the Spanish speaking population from English to Spanish.\n\nExpected benefits: Translating documents from English to Spanish allows for the Spanish speaking population the opportunity to stay well informed with the events and details of the institution."
+    "purpose_and_benefits": "Purpose: Staff have periodically used Google Translate to translate documents and notifications for the Spanish speaking population from English to Spanish.\n\nExpected benefits: Translating documents from English to Spanish allows for the Spanish speaking population the opportunity to stay well informed with the events and details of the institution.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1350,7 +2134,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: FBOP uses Quantum Choice to adjudicate medical claims and analyze system data.\n\nExpected benefits: Cost savings and increased compliance with billing regulations and contract pricing terms.  It also provides data analysis to assist with the FBOP's mission."
+    "purpose_and_benefits": "Purpose: FBOP uses Quantum Choice to adjudicate medical claims and analyze system data.\n\nExpected benefits: Cost savings and increased compliance with billing regulations and contract pricing terms.  It also provides data analysis to assist with the FBOP's mission.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1361,7 +2151,12 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: To assist FBOP employees with career pathways. The system generates assessments based on user input.  It scores the assessments taken to provide a user with options for career pathways.\n\nExpected benefits: Improved understanding of career pathways."
+    "purpose_and_benefits": "Purpose: To assist FBOP employees with career pathways. The system generates assessments based on user input.  It scores the assessments taken to provide a user with options for career pathways.\n\nExpected benefits: Improved understanding of career pathways.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1372,7 +2167,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: This tool, developed by OJP, uses pre-defined rules to score an inmate's recidivism risk level.\n\nExpected benefits: PATTERN provides a standardized approach to calculating a recidivism risk level."
+    "purpose_and_benefits": "Purpose: This tool, developed by OJP, uses pre-defined rules to score an inmate's recidivism risk level.\n\nExpected benefits: PATTERN provides a standardized approach to calculating a recidivism risk level.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1383,7 +2185,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Static-99 is used as one data point in a 10 point manual process to evaluate FBOP sex offender's risk for recidivism. The tool uses pre-defined rules to score an inmate's recidivism risk level.\n\nExpected benefits: To assist the evaluator in the recidivism risk review process by providing a key data point used in the overall evaluation."
+    "purpose_and_benefits": "Purpose: Static-99 is used as one data point in a 10 point manual process to evaluate FBOP sex offender's risk for recidivism. The tool uses pre-defined rules to score an inmate's recidivism risk level.\n\nExpected benefits: To assist the evaluator in the recidivism risk review process by providing a key data point used in the overall evaluation.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1394,7 +2203,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Security feature that allows only a particular adult in custody (AIC) access to their individual account. Uses biometric (fingerprints and vocal) identification.\n\nExpected benefits: Secure access"
+    "purpose_and_benefits": "Purpose: Security feature that allows only a particular adult in custody (AIC) access to their individual account. Uses biometric (fingerprints and vocal) identification.\n\nExpected benefits: Secure access",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1405,7 +2221,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: This tool uses AI functionality to search for relevant information within various FBOP systems.\n\nExpected benefits: To assist with the FBOP's mission by completing assessments and analysis of FBOP systems for investigative purposes."
+    "purpose_and_benefits": "Purpose: This tool uses AI functionality to search for relevant information within various FBOP systems.\n\nExpected benefits: To assist with the FBOP's mission by completing assessments and analysis of FBOP systems for investigative purposes.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1416,7 +2239,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Detects and analyzes UAS near FBOP facilities to determine if the UAS is a threat to an institution. Provides reliable threat detection as part of FBOP\ufffds overall mission to provide safe and secure facilities. \n\nExpected benefits: To maintain security of FBOP institutions. The benefits of such detections serve FBOP\ufffds mission to protect society by confining offenders in the controlled environments of prisons and community-based facilities that are safe and appropriately secure."
+    "purpose_and_benefits": "Purpose: Detects and analyzes UAS near FBOP facilities to determine if the UAS is a threat to an institution. Provides reliable threat detection as part of FBOP\ufffds overall mission to provide safe and secure facilities. \n\nExpected benefits: To maintain security of FBOP institutions. The benefits of such detections serve FBOP\ufffds mission to protect society by confining offenders in the controlled environments of prisons and community-based facilities that are safe and appropriately secure.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -1427,7 +2257,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: System can detect intruders while minimizing false alarms.\n\nExpected benefits: Increased security FBOP institutions."
+    "purpose_and_benefits": "Purpose: System can detect intruders while minimizing false alarms.\n\nExpected benefits: Increased security FBOP institutions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -1438,7 +2275,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Law enforcement usage of Optical Character Recognition (OCR) to assist with license plate reading under DOJ Policy.  LPR data is managed and maintained by other entities for law enforcement purposes.\n\nExpected benefits: Law enforcement usage of Optical Character Recognition (OCR) to assist with license plate reading under DOJ Policy."
+    "purpose_and_benefits": "Purpose: Law enforcement usage of Optical Character Recognition (OCR) to assist with license plate reading under DOJ Policy.  LPR data is managed and maintained by other entities for law enforcement purposes.\n\nExpected benefits: Law enforcement usage of Optical Character Recognition (OCR) to assist with license plate reading under DOJ Policy.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1449,7 +2293,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Archival capture of raw video and audio footage that are accessed only to the extent needed for prosecution or investigation purposes.  AI functionalities for analysis, voice transcription, and redaction are not utilized or relevant for our use.\n\nExpected benefits: This use case does not utilize AI functions.  AI features are included in the product, but have not been installed and not relevant for our use."
+    "purpose_and_benefits": "Purpose: Archival capture of raw video and audio footage that are accessed only to the extent needed for prosecution or investigation purposes.  AI functionalities for analysis, voice transcription, and redaction are not utilized or relevant for our use.\n\nExpected benefits: This use case does not utilize AI functions.  AI features are included in the product, but have not been installed and not relevant for our use.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1460,7 +2310,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: A pilot OJP Office for Victims of Crime Notice of Funding Opportunity allowed video submissions of grant applications. MS Streams transcribed videos into scripts.\n\nExpected benefits: MS Streams transcribed videos into scripts. Transcriptions helped reviewers speed up the review process."
+    "purpose_and_benefits": "Purpose: A pilot OJP Office for Victims of Crime Notice of Funding Opportunity allowed video submissions of grant applications. MS Streams transcribed videos into scripts.\n\nExpected benefits: MS Streams transcribed videos into scripts. Transcriptions helped reviewers speed up the review process.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1471,7 +2327,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The purpose of the AI software (Veritone) is to transcribe or translate recordings into speaker separated conversations.\n\nExpected benefits: Using Veritone\ufffds AI transcription is expected to save OPR substantial amounts of money compared to our prior, routine use of court reporters to transcribe audio recordings of investigative interviews.  In addition, human transcription of OPR\ufffds audio recorded interviews typically has a two to three week turnaround to receive the transcripts back from the court reporters.  The Veritone Illuminate AI software generates transcripts within a matter of hours.  The quicker turnaround on transcription allows OPR to more efficiently and promptly complete its investigations."
+    "purpose_and_benefits": "Purpose: The purpose of the AI software (Veritone) is to transcribe or translate recordings into speaker separated conversations.\n\nExpected benefits: Using Veritone\ufffds AI transcription is expected to save OPR substantial amounts of money compared to our prior, routine use of court reporters to transcribe audio recordings of investigative interviews.  In addition, human transcription of OPR\ufffds audio recorded interviews typically has a two to three week turnaround to receive the transcripts back from the court reporters.  The Veritone Illuminate AI software generates transcripts within a matter of hours.  The quicker turnaround on transcription allows OPR to more efficiently and promptly complete its investigations.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1482,7 +2345,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Allows the retrieval of personal data for an individual such as historical addresses.\n\nExpected benefits: Improve the accuracy and comprehensiveness of a clemency applicant's personal data."
+    "purpose_and_benefits": "Purpose: Allows the retrieval of personal data for an individual such as historical addresses.\n\nExpected benefits: Improve the accuracy and comprehensiveness of a clemency applicant's personal data.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1493,7 +2363,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Allows the retrieval of court cases when there are security concerns associated with a clemency application.\n\nExpected benefits: Improve accuracy and understanding of the legal issues associated with a clemency application."
+    "purpose_and_benefits": "Purpose: Allows the retrieval of court cases when there are security concerns associated with a clemency application.\n\nExpected benefits: Improve accuracy and understanding of the legal issues associated with a clemency application.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1504,7 +2381,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Allows the retrieval of personal data for an individual such as historical addresses.\n\nExpected benefits: Improve the accuracy and comprehensiveness of a clemency applicant's personal data."
+    "purpose_and_benefits": "Purpose: Allows the retrieval of personal data for an individual such as historical addresses.\n\nExpected benefits: Improve the accuracy and comprehensiveness of a clemency applicant's personal data.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1515,7 +2399,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Text to speech software for the visually impaired.\n\nExpected benefits:  Increased accessibility. Audio description of visual objects. Typically used for blind individuals and satisfies 508 requirements."
+    "purpose_and_benefits": "Purpose: Text to speech software for the visually impaired.\n\nExpected benefits:  Increased accessibility. Audio description of visual objects. Typically used for blind individuals and satisfies 508 requirements.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1526,7 +2416,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The AI/Axon Redaction Assistant is non-generative and used in workflow automation.  AI is used in limited capacity to blur/redact predefined shapes in Body Worn Camera (BWC) footage for release to various law enforcement entities and the public upon request.  \n\nExpected benefits: This product allows for the protection of identities."
+    "purpose_and_benefits": "Purpose: The AI/Axon Redaction Assistant is non-generative and used in workflow automation.  AI is used in limited capacity to blur/redact predefined shapes in Body Worn Camera (BWC) footage for release to various law enforcement entities and the public upon request.  \n\nExpected benefits: This product allows for the protection of identities.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1537,7 +2434,14 @@
     "is_rights_impacting": "No",
     "is_safety_impacting": "Yes",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The UAS AI tool is used to avoid crashing into objects. It is also used to identify if an object is a person or vehicle.\n\nExpected benefits: Prevention of UAS crashes and identification of objects and persons from a distance."
+    "purpose_and_benefits": "Purpose: The UAS AI tool is used to avoid crashing into objects. It is also used to identify if an object is a person or vehicle.\n\nExpected benefits: Prevention of UAS crashes and identification of objects and persons from a distance.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "safety_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Moderate"
   },
   {
     "agency": "Department of Justice",
@@ -1548,7 +2452,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: The Axon VRS Transcription Tool is an AI-powered feature within Axon's video retention solution, which automatically transcribes audio and video recordings. \n\nExpected benefits: The Axon VRS Transcription Tool allows users to quickly review audio and video recordings by reading and searching through text, instead of having to watch the entire footage and listen to accompanying audio. This tool essentially provides a time-synced transcript for quick and easy analysis."
+    "purpose_and_benefits": "Purpose: The Axon VRS Transcription Tool is an AI-powered feature within Axon's video retention solution, which automatically transcribes audio and video recordings. \n\nExpected benefits: The Axon VRS Transcription Tool allows users to quickly review audio and video recordings by reading and searching through text, instead of having to watch the entire footage and listen to accompanying audio. This tool essentially provides a time-synced transcript for quick and easy analysis.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1559,7 +2470,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: USMS uses this tool for authorized investigative lead generation which will improve efficiencies of public safety and law enforcement missions. \n\nExpected benefits:  More efficient screening of leads for potential investigative actions."
+    "purpose_and_benefits": "Purpose: USMS uses this tool for authorized investigative lead generation which will improve efficiencies of public safety and law enforcement missions. \n\nExpected benefits:  More efficient screening of leads for potential investigative actions.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1570,7 +2487,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: JPATS uses biometric facial recognition software to identify prisoners in transit and pull up their movement packet for quicker and more accurate boarding of planes.\n\nExpected benefits: Faster and more accurate prisoner identification"
+    "purpose_and_benefits": "Purpose: JPATS uses biometric facial recognition software to identify prisoners in transit and pull up their movement packet for quicker and more accurate boarding of planes.\n\nExpected benefits: Faster and more accurate prisoner identification",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1581,7 +2505,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Translate from French, Spanish, or Arabic into English in support of investigative processes.\n\nExpected benefits: The benefit is reducing the costs associated with human translators."
+    "purpose_and_benefits": "Purpose: Translate from French, Spanish, or Arabic into English in support of investigative processes.\n\nExpected benefits: The benefit is reducing the costs associated with human translators.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1592,7 +2523,14 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Use of commercial tool and the embedded technology to search through public records for investigative purposes. \n\nExpected benefits: The benefit is access to wide array of information."
+    "purpose_and_benefits": "Purpose: Use of commercial tool and the embedded technology to search through public records for investigative purposes. \n\nExpected benefits: The benefit is access to wide array of information.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   },
   {
     "agency": "Department of Justice",
@@ -1603,6 +2541,13 @@
     "is_rights_impacting": "Yes",
     "is_safety_impacting": "No",
     "inventory_year": "2024",
-    "purpose_and_benefits": "Purpose: Use of commercial tool and the embedded technology to search through public records for investigative purposes. \n\nExpected benefits: The benefit is access to wide array of information."
+    "purpose_and_benefits": "Purpose: Use of commercial tool and the embedded technology to search through public records for investigative purposes. \n\nExpected benefits: The benefit is access to wide array of information.",
+    "vendor_name": null,
+    "litigation_risk_flags": [
+      "rights_impacting",
+      "high_risk_topic",
+      "deployed"
+    ],
+    "litigation_risk_level": "Elevated"
   }
 ]

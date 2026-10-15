@@ -1,0 +1,652 @@
+[
+  {
+    "agency": "Department of Justice",
+    "total": 527,
+    "Elevated": 62,
+    "Moderate": 282,
+    "Low": 183,
+    "rights_impacting": 62,
+    "safety_impacting": 7,
+    "both": 0
+  },
+  {
+    "agency": "Department of Homeland Security",
+    "total": 440,
+    "Elevated": 26,
+    "Moderate": 159,
+    "Low": 255,
+    "rights_impacting": 26,
+    "safety_impacting": 1,
+    "both": 0
+  },
+  {
+    "agency": "Social Security Administration",
+    "total": 56,
+    "Elevated": 8,
+    "Moderate": 31,
+    "Low": 17,
+    "rights_impacting": 8,
+    "safety_impacting": 1,
+    "both": 0
+  },
+  {
+    "agency": "Department of Veterans Affairs",
+    "total": 615,
+    "Elevated": 8,
+    "Moderate": 385,
+    "Low": 222,
+    "rights_impacting": 8,
+    "safety_impacting": 10,
+    "both": 0
+  },
+  {
+    "agency": "Department of Agriculture",
+    "total": 271,
+    "Elevated": 4,
+    "Moderate": 26,
+    "Low": 241,
+    "rights_impacting": 4,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States Agency for International Development",
+    "total": 137,
+    "Elevated": 3,
+    "Moderate": 19,
+    "Low": 115,
+    "rights_impacting": 3,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Labor",
+    "total": 129,
+    "Elevated": 2,
+    "Moderate": 9,
+    "Low": 118,
+    "rights_impacting": 2,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Health and Human Services",
+    "total": 736,
+    "Elevated": 2,
+    "Moderate": 246,
+    "Low": 488,
+    "rights_impacting": 2,
+    "safety_impacting": 2,
+    "both": 0
+  },
+  {
+    "agency": "Office of Personnel Management",
+    "total": 22,
+    "Elevated": 2,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 2,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of the Treasury",
+    "total": 179,
+    "Elevated": 2,
+    "Moderate": 18,
+    "Low": 159,
+    "rights_impacting": 2,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "General Services Administration",
+    "total": 93,
+    "Elevated": 1,
+    "Moderate": 13,
+    "Low": 79,
+    "rights_impacting": 1,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Deposit Insurance Corporation",
+    "total": 125,
+    "Elevated": 1,
+    "Moderate": 1,
+    "Low": 123,
+    "rights_impacting": 1,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Commerce",
+    "total": 300,
+    "Elevated": 0,
+    "Moderate": 6,
+    "Low": 294,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Energy",
+    "total": 433,
+    "Elevated": 0,
+    "Moderate": 4,
+    "Low": 429,
+    "rights_impacting": 0,
+    "safety_impacting": 3,
+    "both": 0
+  },
+  {
+    "agency": "Department of the Interior",
+    "total": 435,
+    "Elevated": 0,
+    "Moderate": 11,
+    "Low": 424,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Environmental Protection Agency",
+    "total": 66,
+    "Elevated": 0,
+    "Moderate": 15,
+    "Low": 51,
+    "rights_impacting": 0,
+    "safety_impacting": 1,
+    "both": 0
+  },
+  {
+    "agency": "Department of Housing and Urban Development",
+    "total": 37,
+    "Elevated": 0,
+    "Moderate": 3,
+    "Low": 34,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Aeronautics and Space Administration",
+    "total": 463,
+    "Elevated": 0,
+    "Moderate": 9,
+    "Low": 454,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Science Foundation",
+    "total": 33,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 33,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of State",
+    "total": 131,
+    "Elevated": 0,
+    "Moderate": 5,
+    "Low": 126,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Consumer Financial Protection Bureau",
+    "total": 4,
+    "Elevated": 0,
+    "Moderate": 1,
+    "Low": 3,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Commodity Futures Trading Commission",
+    "total": 7,
+    "Elevated": 0,
+    "Moderate": 1,
+    "Low": 6,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Election Assistance Commission",
+    "total": 6,
+    "Elevated": 0,
+    "Moderate": 2,
+    "Low": 4,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Equal Employment Opportunity Commission",
+    "total": 8,
+    "Elevated": 0,
+    "Moderate": 4,
+    "Low": 4,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Energy Regulatory Commission",
+    "total": 30,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 30,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Housing Finance Agency",
+    "total": 54,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 54,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Board of Governors of the Federal Reserve System",
+    "total": 48,
+    "Elevated": 0,
+    "Moderate": 7,
+    "Low": 41,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Trade Commission",
+    "total": 42,
+    "Elevated": 0,
+    "Moderate": 7,
+    "Low": 35,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Archives and Records Administration",
+    "total": 23,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 23,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Transportation Safety Board",
+    "total": 26,
+    "Elevated": 0,
+    "Moderate": 1,
+    "Low": 25,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Pension Benefit Guaranty Corporation",
+    "total": 38,
+    "Elevated": 0,
+    "Moderate": 4,
+    "Low": 34,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Postal Regulatory Commission",
+    "total": 1,
+    "Elevated": 0,
+    "Moderate": 1,
+    "Low": 0,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Presidio Trust",
+    "total": 5,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 5,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Securities and Exchange Commission",
+    "total": 108,
+    "Elevated": 0,
+    "Moderate": 8,
+    "Low": 100,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States Agency for Global Media",
+    "total": 8,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 8,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States Commission on Civil Rights",
+    "total": 2,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 2,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States Trade and Development Agency",
+    "total": 24,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 24,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Tennessee Valley Authority",
+    "total": 117,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 117,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Education",
+    "total": 19,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 19,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Transportation",
+    "total": 156,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 156,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Credit Union Administration",
+    "total": 41,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 41,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Farm Credit Administration",
+    "total": 23,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 23,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Communications Commission",
+    "total": 26,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 26,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Reserve Board",
+    "total": 38,
+    "Elevated": 0,
+    "Moderate": 1,
+    "Low": 37,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Endowment for the Arts",
+    "total": 4,
+    "Elevated": 0,
+    "Moderate": 2,
+    "Low": 2,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Indian Gaming Commission",
+    "total": 25,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 25,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Nuclear Regulatory Commission",
+    "total": 4,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 4,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Office of Special Counsel",
+    "total": 1,
+    "Elevated": 0,
+    "Moderate": 1,
+    "Low": 0,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Occupational Safety and Health Review Commission",
+    "total": 21,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 21,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Small Business Administration",
+    "total": 53,
+    "Elevated": 0,
+    "Moderate": 18,
+    "Low": 35,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Surface Transportation Board",
+    "total": 22,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 22,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Committee for Purchase From People Who Are Blind or Significantly Disabled",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Court Services and Offender Supervision Agency",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Treasury",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Department of Veteran Affairs-OIG",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Export-Import Bank of the U.S.",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Labor Relations Authority",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Federal Reserve Board of Governors",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "Morris K. Udall and Stewart L. Udall Foundation",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Endowment of the Arts",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Endowment for the Humanities",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "National Labor Relations Board",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States Election Assistance Commission",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States International Trade Commission",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  },
+  {
+    "agency": "United States Office of Special Counsel",
+    "total": 20,
+    "Elevated": 0,
+    "Moderate": 0,
+    "Low": 20,
+    "rights_impacting": 0,
+    "safety_impacting": 0,
+    "both": 0
+  }
+]
