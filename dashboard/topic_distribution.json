@@ -1,0 +1,782 @@
+{
+  "_global": {
+    "COTS": 900,
+    "Science": 758,
+    "Unknown": 601,
+    "Mission-Enabling": 489,
+    "Admin Functions": 419,
+    "IT": 384,
+    "Mission-Enabling (internal agency support)": 360,
+    "Other": 324,
+    "Law Enforcement": 275,
+    "Health and Medical": 272,
+    "Health & Medical": 241,
+    "Law & Justice": 236,
+    "Government Services (includes Benefits and Service Delivery)": 162,
+    "Service Delivery": 150,
+    "Energy and Environment": 130,
+    "Transportation": 94,
+    "Diplomacy & Trade": 92,
+    "Procurement and Finance Mgmt": 90,
+    "Science & Space": 83,
+    "Benefits Processing": 56,
+    "Cybersecurity": 53,
+    "HR": 46,
+    "AI used in Transportation Operations": 42,
+    "Education & Workforce": 38,
+    "Energy & the Environment": 38,
+    "Other \u2013 Economic & Financial": 34,
+    "Emergency Mgmt": 33,
+    "Emergency Management": 18,
+    "Other - Applied Mathematical Sciences": 13,
+    "Administration of AI Governance, Processes, and Procedures": 10,
+    "International Affairs": 8,
+    "Department-Level AI Capabilities and Capacity": 7,
+    "Deep Learning": 6,
+    "Internal DOT Research Project": 6,
+    "Administrative functions": 6,
+    "Natural Language Processing": 3,
+    "Statistical Methods": 3,
+    "Other; Mission-Enabling (internal agency support)": 3,
+    "Other (use other text field)": 3,
+    "NLP": 2,
+    "Classification": 1,
+    "AIML Platform/Environment": 1,
+    "Diplomacy & Trade; Mission-Enabling (internal agency support)": 1,
+    "DOT Sponsored External Research": 1
+  },
+  "by_agency": [
+    {
+      "agency": "Department of Health and Human Services",
+      "topics": {
+        "Mission-Enabling (internal agency support)": 132,
+        "Admin Functions": 117,
+        "Health and Medical": 89,
+        "IT": 87,
+        "Government Services (includes Benefits and Service Delivery)": 74,
+        "Health & Medical": 51,
+        "Unknown": 48,
+        "Science": 48,
+        "COTS": 20,
+        "Service Delivery": 18,
+        "Other": 11,
+        "Emergency Mgmt": 8,
+        "Procurement and Finance Mgmt": 7,
+        "Law & Justice": 6,
+        "Benefits Processing": 5,
+        "Emergency Management": 4,
+        "Law Enforcement": 4,
+        "Education & Workforce": 3,
+        "HR": 3,
+        "Cybersecurity": 1
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "topics": {
+        "Health and Medical": 166,
+        "Health & Medical": 158,
+        "Unknown": 72,
+        "Mission-Enabling (internal agency support)": 30,
+        "Benefits Processing": 27,
+        "Admin Functions": 25,
+        "COTS": 20,
+        "Other": 19,
+        "IT": 18,
+        "Government Services (includes Benefits and Service Delivery)": 17,
+        "Procurement and Finance Mgmt": 12,
+        "Service Delivery": 12,
+        "Cybersecurity": 9,
+        "Law & Justice": 7,
+        "HR": 7,
+        "Education & Workforce": 6,
+        "Law Enforcement": 5,
+        "Mission-Enabling": 2,
+        "Science": 2,
+        "Transportation": 1
+      }
+    },
+    {
+      "agency": "Department of Justice",
+      "topics": {
+        "Law Enforcement": 162,
+        "Law & Justice": 150,
+        "Admin Functions": 59,
+        "Mission-Enabling (internal agency support)": 56,
+        "IT": 34,
+        "Unknown": 18,
+        "Health & Medical": 8,
+        "Health and Medical": 7,
+        "Procurement and Finance Mgmt": 6,
+        "Service Delivery": 5,
+        "Other": 4,
+        "HR": 4,
+        "Government Services (includes Benefits and Service Delivery)": 3,
+        "Education & Workforce": 3,
+        "Transportation": 3,
+        "Cybersecurity": 3,
+        "Benefits Processing": 1,
+        "Science": 1
+      }
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "topics": {
+        "Science": 387,
+        "COTS": 20,
+        "Transportation": 9,
+        "Deep Learning": 6,
+        "IT": 6,
+        "Administrative functions": 6,
+        "Service Delivery": 5,
+        "Natural Language Processing": 3,
+        "Statistical Methods": 3,
+        "Other (use other text field)": 3,
+        "Health and Medical": 3,
+        "Other": 2,
+        "NLP": 2,
+        "Procurement and Finance Mgmt": 2,
+        "Classification": 1,
+        "AIML Platform/Environment": 1,
+        "Cybersecurity": 1,
+        "Unknown": 1,
+        "Emergency Mgmt": 1,
+        "Law Enforcement": 1
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "topics": {
+        "Law Enforcement": 85,
+        "Unknown": 67,
+        "Law & Justice": 58,
+        "Mission-Enabling": 57,
+        "Admin Functions": 53,
+        "Transportation": 26,
+        "COTS": 20,
+        "Government Services (includes Benefits and Service Delivery)": 12,
+        "Service Delivery": 12,
+        "IT": 11,
+        "Cybersecurity": 7,
+        "Health & Medical": 5,
+        "Emergency Mgmt": 5,
+        "HR": 4,
+        "Education & Workforce": 3,
+        "Emergency Management": 3,
+        "Procurement and Finance Mgmt": 3,
+        "Benefits Processing": 3,
+        "Health and Medical": 3,
+        "Diplomacy & Trade": 1,
+        "International Affairs": 1,
+        "Other": 1
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "topics": {
+        "Science": 170,
+        "Mission-Enabling": 143,
+        "Energy and Environment": 25,
+        "COTS": 20,
+        "Unknown": 15,
+        "Other": 12,
+        "Science & Space": 11,
+        "Admin Functions": 10,
+        "Mission-Enabling (internal agency support)": 9,
+        "Service Delivery": 7,
+        "Government Services (includes Benefits and Service Delivery)": 4,
+        "Emergency Mgmt": 4,
+        "IT": 2,
+        "Procurement and Finance Mgmt": 2,
+        "Transportation": 1
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "topics": {
+        "IT": 86,
+        "Science": 84,
+        "Mission-Enabling (internal agency support)": 48,
+        "Other": 46,
+        "Admin Functions": 43,
+        "Energy and Environment": 40,
+        "Science & Space": 21,
+        "COTS": 20,
+        "Unknown": 15,
+        "Procurement and Finance Mgmt": 8,
+        "Cybersecurity": 8,
+        "HR": 5,
+        "Education & Workforce": 2,
+        "Emergency Mgmt": 2,
+        "Transportation": 2,
+        "Emergency Management": 1,
+        "Health and Medical": 1,
+        "International Affairs": 1
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "topics": {
+        "Unknown": 228,
+        "COTS": 20,
+        "Mission-Enabling": 12,
+        "Mission-Enabling (internal agency support)": 10,
+        "Science & Space": 10,
+        "Other": 8,
+        "Government Services (includes Benefits and Service Delivery)": 5,
+        "Education & Workforce": 4,
+        "Diplomacy & Trade": 2,
+        "Law & Justice": 1
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "topics": {
+        "Science": 60,
+        "Mission-Enabling": 33,
+        "Science & Space": 25,
+        "COTS": 20,
+        "Unknown": 19,
+        "IT": 17,
+        "Service Delivery": 16,
+        "Other": 14,
+        "Energy and Environment": 14,
+        "Emergency Mgmt": 11,
+        "Energy & the Environment": 9,
+        "Admin Functions": 7,
+        "Government Services (includes Benefits and Service Delivery)": 6,
+        "Law & Justice": 4,
+        "Emergency Management": 3,
+        "Transportation": 3,
+        "Procurement and Finance Mgmt": 3,
+        "Benefits Processing": 2,
+        "Education & Workforce": 1,
+        "Health and Medical": 1,
+        "Cybersecurity": 1,
+        "HR": 1,
+        "International Affairs": 1
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "topics": {
+        "Mission-Enabling": 53,
+        "IT": 52,
+        "Admin Functions": 22,
+        "Service Delivery": 18,
+        "Procurement and Finance Mgmt": 14,
+        "Unknown": 11,
+        "HR": 4,
+        "Science": 4,
+        "Government Services (includes Benefits and Service Delivery)": 1
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "topics": {
+        "Transportation": 48,
+        "AI used in Transportation Operations": 42,
+        "Admin Functions": 22,
+        "COTS": 20,
+        "Administration of AI Governance, Processes, and Procedures": 10,
+        "Department-Level AI Capabilities and Capacity": 7,
+        "Internal DOT Research Project": 6,
+        "DOT Sponsored External Research": 1
+      }
+    },
+    {
+      "agency": "United States Agency for International Development",
+      "topics": {
+        "Diplomacy & Trade": 77,
+        "Mission-Enabling": 19,
+        "Health & Medical": 18,
+        "Science & Space": 12,
+        "Emergency Management": 7,
+        "Energy & the Environment": 1,
+        "Law & Justice": 1,
+        "Government Services (includes Benefits and Service Delivery)": 1,
+        "Education & Workforce": 1
+      }
+    },
+    {
+      "agency": "Department of State",
+      "topics": {
+        "Unknown": 23,
+        "COTS": 20,
+        "Mission-Enabling (internal agency support)": 18,
+        "Other": 18,
+        "Diplomacy & Trade": 12,
+        "IT": 8,
+        "Admin Functions": 6,
+        "International Affairs": 5,
+        "Education & Workforce": 4,
+        "Other; Mission-Enabling (internal agency support)": 3,
+        "Service Delivery": 3,
+        "Procurement and Finance Mgmt": 3,
+        "HR": 2,
+        "Mission-Enabling": 1,
+        "Diplomacy & Trade; Mission-Enabling (internal agency support)": 1,
+        "Cybersecurity": 1,
+        "Emergency Mgmt": 1,
+        "Law Enforcement": 1,
+        "Health and Medical": 1
+      }
+    },
+    {
+      "agency": "Department of Labor",
+      "topics": {
+        "Mission-Enabling (internal agency support)": 57,
+        "COTS": 20,
+        "Other - Applied Mathematical Sciences": 13,
+        "Unknown": 11,
+        "Education & Workforce": 6,
+        "Admin Functions": 6,
+        "Government Services (includes Benefits and Service Delivery)": 4,
+        "Service Delivery": 4,
+        "Other": 3,
+        "HR": 2,
+        "Law & Justice": 1,
+        "Cybersecurity": 1,
+        "Benefits Processing": 1
+      }
+    },
+    {
+      "agency": "Federal Deposit Insurance Corporation",
+      "topics": {
+        "Other": 41,
+        "Mission-Enabling": 29,
+        "COTS": 20,
+        "Unknown": 14,
+        "IT": 8,
+        "Procurement and Finance Mgmt": 5,
+        "HR": 4,
+        "Admin Functions": 3,
+        "Law Enforcement": 1
+      }
+    },
+    {
+      "agency": "Tennessee Valley Authority",
+      "topics": {
+        "Energy and Environment": 41,
+        "Energy & the Environment": 21,
+        "COTS": 20,
+        "Mission-Enabling": 17,
+        "IT": 11,
+        "Admin Functions": 4,
+        "Cybersecurity": 1,
+        "HR": 1,
+        "Other": 1
+      }
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "topics": {
+        "Other": 52,
+        "COTS": 20,
+        "Unknown": 12,
+        "Service Delivery": 7,
+        "Mission-Enabling": 6,
+        "IT": 3,
+        "Education & Workforce": 2,
+        "Cybersecurity": 2,
+        "Admin Functions": 2,
+        "Law Enforcement": 1,
+        "HR": 1
+      }
+    },
+    {
+      "agency": "General Services Administration",
+      "topics": {
+        "COTS": 20,
+        "Other": 15,
+        "Procurement and Finance Mgmt": 13,
+        "Admin Functions": 13,
+        "Service Delivery": 10,
+        "IT": 8,
+        "Mission-Enabling": 6,
+        "Cybersecurity": 4,
+        "Government Services (includes Benefits and Service Delivery)": 3,
+        "Transportation": 1
+      }
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "topics": {
+        "COTS": 20,
+        "Law Enforcement": 7,
+        "Unknown": 6,
+        "Energy & the Environment": 5,
+        "Admin Functions": 5,
+        "Science & Space": 4,
+        "Mission-Enabling": 4,
+        "Service Delivery": 4,
+        "Law & Justice": 3,
+        "Science": 2,
+        "IT": 2,
+        "Government Services (includes Benefits and Service Delivery)": 1,
+        "Energy and Environment": 1,
+        "HR": 1,
+        "Cybersecurity": 1
+      }
+    },
+    {
+      "agency": "Social Security Administration",
+      "topics": {
+        "Government Services (includes Benefits and Service Delivery)": 20,
+        "Benefits Processing": 14,
+        "IT": 8,
+        "Service Delivery": 3,
+        "HR": 3,
+        "Mission-Enabling": 2,
+        "Cybersecurity": 2,
+        "Health & Medical": 1,
+        "Admin Functions": 1,
+        "Other": 1,
+        "Health and Medical": 1
+      }
+    },
+    {
+      "agency": "Federal Housing Finance Agency",
+      "topics": {
+        "COTS": 20,
+        "Mission-Enabling": 18,
+        "IT": 5,
+        "Unknown": 4,
+        "Cybersecurity": 3,
+        "Admin Functions": 3,
+        "Procurement and Finance Mgmt": 1
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "topics": {
+        "COTS": 20,
+        "Service Delivery": 18,
+        "Admin Functions": 6,
+        "Cybersecurity": 5,
+        "IT": 4
+      }
+    },
+    {
+      "agency": "Board of Governors of the Federal Reserve System",
+      "topics": {
+        "Other": 22,
+        "Mission-Enabling": 18,
+        "Government Services (includes Benefits and Service Delivery)": 6,
+        "Law & Justice": 1,
+        "Education & Workforce": 1
+      }
+    },
+    {
+      "agency": "Federal Trade Commission",
+      "topics": {
+        "COTS": 20,
+        "Other": 14,
+        "Law Enforcement": 6,
+        "Government Services (includes Benefits and Service Delivery)": 1,
+        "IT": 1
+      }
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "topics": {
+        "COTS": 20,
+        "Other": 12,
+        "Procurement and Finance Mgmt": 6,
+        "Mission-Enabling": 3
+      }
+    },
+    {
+      "agency": "Pension Benefit Guaranty Corporation",
+      "topics": {
+        "COTS": 20,
+        "IT": 4,
+        "Procurement and Finance Mgmt": 4,
+        "Cybersecurity": 2,
+        "Benefits Processing": 2,
+        "HR": 2,
+        "Other": 1,
+        "Mission-Enabling": 1,
+        "Law Enforcement": 1,
+        "Service Delivery": 1
+      }
+    },
+    {
+      "agency": "Federal Reserve Board",
+      "topics": {
+        "Other \u2013 Economic & Financial": 34,
+        "IT": 2,
+        "HR": 1,
+        "Law Enforcement": 1
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "topics": {
+        "COTS": 20,
+        "Mission-Enabling": 6,
+        "Service Delivery": 3,
+        "Other": 2,
+        "Admin Functions": 2,
+        "Unknown": 2,
+        "Procurement and Finance Mgmt": 1,
+        "HR": 1
+      }
+    },
+    {
+      "agency": "National Science Foundation",
+      "topics": {
+        "Unknown": 17,
+        "Mission-Enabling": 16
+      }
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "topics": {
+        "COTS": 20,
+        "Energy and Environment": 5,
+        "Mission-Enabling": 2,
+        "Energy & the Environment": 2,
+        "Other": 1
+      }
+    },
+    {
+      "agency": "National Transportation Safety Board",
+      "topics": {
+        "COTS": 20,
+        "Mission-Enabling": 2,
+        "Other": 1,
+        "Service Delivery": 1,
+        "Emergency Mgmt": 1,
+        "Admin Functions": 1
+      }
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "topics": {
+        "COTS": 20,
+        "IT": 6
+      }
+    },
+    {
+      "agency": "National Indian Gaming Commission",
+      "topics": {
+        "COTS": 20,
+        "Admin Functions": 5
+      }
+    },
+    {
+      "agency": "United States Trade and Development Agency",
+      "topics": {
+        "COTS": 20,
+        "Mission-Enabling": 4
+      }
+    },
+    {
+      "agency": "National Archives and Records Administration",
+      "topics": {
+        "Other": 14,
+        "Mission-Enabling": 9
+      }
+    },
+    {
+      "agency": "Farm Credit Administration",
+      "topics": {
+        "COTS": 20,
+        "Other": 2,
+        "Admin Functions": 1
+      }
+    },
+    {
+      "agency": "Office of Personnel Management",
+      "topics": {
+        "COTS": 20,
+        "Mission-Enabling": 2
+      }
+    },
+    {
+      "agency": "Surface Transportation Board",
+      "topics": {
+        "COTS": 20,
+        "Other": 2
+      }
+    },
+    {
+      "agency": "Occupational Safety and Health Review Commission",
+      "topics": {
+        "COTS": 20,
+        "Other": 1
+      }
+    },
+    {
+      "agency": "Committee for Purchase From People Who Are Blind or Significantly Disabled",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Court Services and Offender Supervision Agency",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Department of Treasury",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Department of Veteran Affairs-OIG",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the U.S.",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Federal Labor Relations Authority",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Federal Reserve Board of Governors",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Morris K. Udall and Stewart L. Udall Foundation",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "National Endowment of the Arts",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "National Endowment for the Humanities",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "National Labor Relations Board",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "United States Election Assistance Commission",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "United States International Trade Commission",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "United States Office of Special Counsel",
+      "topics": {
+        "COTS": 20
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "topics": {
+        "Unknown": 15,
+        "Other": 3,
+        "Education & Workforce": 1
+      }
+    },
+    {
+      "agency": "Equal Employment Opportunity Commission",
+      "topics": {
+        "Government Services (includes Benefits and Service Delivery)": 3,
+        "Mission-Enabling": 3,
+        "Education & Workforce": 1,
+        "Law & Justice": 1
+      }
+    },
+    {
+      "agency": "United States Agency for Global Media",
+      "topics": {
+        "Mission-Enabling": 8
+      }
+    },
+    {
+      "agency": "Commodity Futures Trading Commission",
+      "topics": {
+        "Mission-Enabling": 3,
+        "Unknown": 3,
+        "Law & Justice": 1
+      }
+    },
+    {
+      "agency": "Election Assistance Commission",
+      "topics": {
+        "Admin Functions": 3,
+        "Mission-Enabling": 1,
+        "Government Services (includes Benefits and Service Delivery)": 1,
+        "Service Delivery": 1
+      }
+    },
+    {
+      "agency": "Presidio Trust",
+      "topics": {
+        "Mission-Enabling": 5
+      }
+    },
+    {
+      "agency": "Consumer Financial Protection Bureau",
+      "topics": {
+        "Mission-Enabling": 3,
+        "Law & Justice": 1
+      }
+    },
+    {
+      "agency": "National Endowment for the Arts",
+      "topics": {
+        "Service Delivery": 2,
+        "Cybersecurity": 1,
+        "IT": 1
+      }
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "topics": {
+        "Energy and Environment": 4
+      }
+    },
+    {
+      "agency": "United States Commission on Civil Rights",
+      "topics": {
+        "Mission-Enabling": 1,
+        "Other": 1
+      }
+    },
+    {
+      "agency": "Postal Regulatory Commission",
+      "topics": {
+        "Law & Justice": 1
+      }
+    },
+    {
+      "agency": "Office of Special Counsel",
+      "topics": {
+        "Benefits Processing": 1
+      }
+    }
+  ]
+}

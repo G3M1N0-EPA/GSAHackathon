@@ -1,0 +1,619 @@
+{
+  "_global": {
+    "Pre-deployment": 1467,
+    "Unknown": 1201,
+    "Deployed": 1028,
+    "Operation and Maintenance": 808,
+    "Retired": 454,
+    "Pilot": 438,
+    "Acquisition and/or Development": 393,
+    "Initiated": 367,
+    "Implementation and Assessment": 284,
+    "Planned": 20,
+    "In production": 14,
+    "Ideation": 9,
+    "Research or  Administrative Action Complete": 5,
+    "In mission": 4
+  },
+  "by_agency": [
+    {
+      "agency": "Department of Health and Human Services",
+      "stages": {
+        "Deployed": 167,
+        "Pre-deployment": 143,
+        "Operation and Maintenance": 104,
+        "Pilot": 88,
+        "Retired": 64,
+        "Initiated": 58,
+        "Acquisition and/or Development": 57,
+        "Implementation and Assessment": 35,
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "stages": {
+        "Deployed": 138,
+        "Pre-deployment": 136,
+        "Operation and Maintenance": 131,
+        "Retired": 73,
+        "Acquisition and/or Development": 52,
+        "Initiated": 27,
+        "Pilot": 21,
+        "Unknown": 20,
+        "Implementation and Assessment": 17
+      }
+    },
+    {
+      "agency": "Department of Justice",
+      "stages": {
+        "Operation and Maintenance": 157,
+        "Deployed": 156,
+        "Pre-deployment": 103,
+        "Retired": 27,
+        "Acquisition and/or Development": 25,
+        "Initiated": 24,
+        "Pilot": 24,
+        "Implementation and Assessment": 11
+      }
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "stages": {
+        "Pre-deployment": 373,
+        "Deployed": 26,
+        "Pilot": 21,
+        "Unknown": 20,
+        "In production": 14,
+        "Retired": 5,
+        "In mission": 4
+      }
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "stages": {
+        "Deployed": 109,
+        "Pre-deployment": 87,
+        "Retired": 72,
+        "Operation and Maintenance": 61,
+        "Initiated": 44,
+        "Acquisition and/or Development": 27,
+        "Unknown": 20,
+        "Implementation and Assessment": 12,
+        "Pilot": 8
+      }
+    },
+    {
+      "agency": "Department of the Interior",
+      "stages": {
+        "Pre-deployment": 105,
+        "Pilot": 89,
+        "Implementation and Assessment": 82,
+        "Acquisition and/or Development": 46,
+        "Deployed": 39,
+        "Initiated": 27,
+        "Unknown": 20,
+        "Operation and Maintenance": 14,
+        "Retired": 13
+      }
+    },
+    {
+      "agency": "Department of Energy",
+      "stages": {
+        "Pre-deployment": 147,
+        "Deployed": 116,
+        "Pilot": 56,
+        "Operation and Maintenance": 29,
+        "Acquisition and/or Development": 28,
+        "Unknown": 20,
+        "Retired": 16,
+        "Initiated": 15,
+        "Implementation and Assessment": 6
+      }
+    },
+    {
+      "agency": "Department of Commerce",
+      "stages": {
+        "Unknown": 243,
+        "Initiated": 18,
+        "Acquisition and/or Development": 16,
+        "Implementation and Assessment": 12,
+        "Operation and Maintenance": 8,
+        "Retired": 3
+      }
+    },
+    {
+      "agency": "Department of Agriculture",
+      "stages": {
+        "Pre-deployment": 57,
+        "Pilot": 47,
+        "Deployed": 39,
+        "Operation and Maintenance": 37,
+        "Retired": 26,
+        "Acquisition and/or Development": 21,
+        "Unknown": 20,
+        "Initiated": 13,
+        "Implementation and Assessment": 11
+      }
+    },
+    {
+      "agency": "Department of the Treasury",
+      "stages": {
+        "Pre-deployment": 66,
+        "Deployed": 26,
+        "Operation and Maintenance": 23,
+        "Pilot": 22,
+        "Acquisition and/or Development": 16,
+        "Retired": 11,
+        "Initiated": 8,
+        "Implementation and Assessment": 7
+      }
+    },
+    {
+      "agency": "Department of Transportation",
+      "stages": {
+        "Pre-deployment": 53,
+        "Acquisition and/or Development": 26,
+        "Unknown": 20,
+        "Deployed": 16,
+        "Initiated": 15,
+        "Operation and Maintenance": 11,
+        "Ideation": 9,
+        "Research or  Administrative Action Complete": 5,
+        "Pilot": 1
+      }
+    },
+    {
+      "agency": "United States Agency for International Development",
+      "stages": {
+        "Implementation and Assessment": 40,
+        "Retired": 33,
+        "Operation and Maintenance": 29,
+        "Acquisition and/or Development": 19,
+        "Initiated": 16
+      }
+    },
+    {
+      "agency": "Department of State",
+      "stages": {
+        "Retired": 40,
+        "Unknown": 20,
+        "Deployed": 19,
+        "Planned": 11,
+        "Implementation and Assessment": 10,
+        "Pilot": 9,
+        "Pre-deployment": 9,
+        "Acquisition and/or Development": 8,
+        "Initiated": 3,
+        "Operation and Maintenance": 2
+      }
+    },
+    {
+      "agency": "Department of Labor",
+      "stages": {
+        "Operation and Maintenance": 50,
+        "Deployed": 21,
+        "Unknown": 20,
+        "Retired": 16,
+        "Initiated": 7,
+        "Pre-deployment": 7,
+        "Acquisition and/or Development": 6,
+        "Pilot": 2
+      }
+    },
+    {
+      "agency": "Federal Deposit Insurance Corporation",
+      "stages": {
+        "Initiated": 37,
+        "Unknown": 20,
+        "Pre-deployment": 17,
+        "Deployed": 16,
+        "Retired": 15,
+        "Acquisition and/or Development": 9,
+        "Operation and Maintenance": 7,
+        "Pilot": 3,
+        "Implementation and Assessment": 1
+      }
+    },
+    {
+      "agency": "Tennessee Valley Authority",
+      "stages": {
+        "Unknown": 79,
+        "Operation and Maintenance": 35,
+        "Initiated": 2,
+        "Acquisition and/or Development": 1
+      }
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "stages": {
+        "Pre-deployment": 23,
+        "Deployed": 20,
+        "Unknown": 20,
+        "Retired": 12,
+        "Operation and Maintenance": 9,
+        "Implementation and Assessment": 8,
+        "Initiated": 8,
+        "Pilot": 5,
+        "Acquisition and/or Development": 3
+      }
+    },
+    {
+      "agency": "General Services Administration",
+      "stages": {
+        "Pre-deployment": 29,
+        "Unknown": 20,
+        "Deployed": 17,
+        "Retired": 7,
+        "Implementation and Assessment": 6,
+        "Acquisition and/or Development": 6,
+        "Initiated": 5,
+        "Pilot": 3
+      }
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "stages": {
+        "Unknown": 20,
+        "Initiated": 9,
+        "Pre-deployment": 9,
+        "Deployed": 7,
+        "Pilot": 7,
+        "Retired": 6,
+        "Operation and Maintenance": 4,
+        "Acquisition and/or Development": 3,
+        "Implementation and Assessment": 1
+      }
+    },
+    {
+      "agency": "Social Security Administration",
+      "stages": {
+        "Deployed": 27,
+        "Operation and Maintenance": 22,
+        "Pilot": 4,
+        "Pre-deployment": 2,
+        "Acquisition and/or Development": 1
+      }
+    },
+    {
+      "agency": "Federal Housing Finance Agency",
+      "stages": {
+        "Unknown": 20,
+        "Implementation and Assessment": 12,
+        "Deployed": 12,
+        "Retired": 4,
+        "Initiated": 3,
+        "Acquisition and/or Development": 2,
+        "Operation and Maintenance": 1
+      }
+    },
+    {
+      "agency": "Small Business Administration",
+      "stages": {
+        "Pre-deployment": 26,
+        "Unknown": 20,
+        "Pilot": 4,
+        "Retired": 3
+      }
+    },
+    {
+      "agency": "Board of Governors of the Federal Reserve System",
+      "stages": {
+        "Operation and Maintenance": 22,
+        "Acquisition and/or Development": 9,
+        "Implementation and Assessment": 8,
+        "Initiated": 8,
+        "Retired": 1
+      }
+    },
+    {
+      "agency": "Federal Trade Commission",
+      "stages": {
+        "Unknown": 20,
+        "Deployed": 11,
+        "Operation and Maintenance": 5,
+        "Retired": 2,
+        "Pre-deployment": 2,
+        "Initiated": 1,
+        "Pilot": 1
+      }
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "stages": {
+        "Unknown": 20,
+        "Operation and Maintenance": 14,
+        "Deployed": 6,
+        "Initiated": 1
+      }
+    },
+    {
+      "agency": "Pension Benefit Guaranty Corporation",
+      "stages": {
+        "Unknown": 20,
+        "Pre-deployment": 14,
+        "Deployed": 2,
+        "Initiated": 1,
+        "Implementation and Assessment": 1
+      }
+    },
+    {
+      "agency": "Federal Reserve Board",
+      "stages": {
+        "Deployed": 16,
+        "Pre-deployment": 15,
+        "Pilot": 7
+      }
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "stages": {
+        "Unknown": 20,
+        "Operation and Maintenance": 5,
+        "Deployed": 5,
+        "Retired": 3,
+        "Pre-deployment": 3,
+        "Pilot": 1
+      }
+    },
+    {
+      "agency": "National Science Foundation",
+      "stages": {
+        "Pre-deployment": 11,
+        "Initiated": 6,
+        "Acquisition and/or Development": 5,
+        "Pilot": 4,
+        "Implementation and Assessment": 3,
+        "Operation and Maintenance": 2,
+        "Deployed": 2
+      }
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "stages": {
+        "Unknown": 24,
+        "Pre-deployment": 4,
+        "Deployed": 1,
+        "Pilot": 1
+      }
+    },
+    {
+      "agency": "National Transportation Safety Board",
+      "stages": {
+        "Unknown": 20,
+        "Pilot": 3,
+        "Initiated": 2,
+        "Pre-deployment": 1
+      }
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "stages": {
+        "Unknown": 20,
+        "Pre-deployment": 4,
+        "Pilot": 1,
+        "Retired": 1
+      }
+    },
+    {
+      "agency": "National Indian Gaming Commission",
+      "stages": {
+        "Unknown": 20,
+        "Deployed": 5
+      }
+    },
+    {
+      "agency": "United States Trade and Development Agency",
+      "stages": {
+        "Unknown": 20,
+        "Operation and Maintenance": 4
+      }
+    },
+    {
+      "agency": "National Archives and Records Administration",
+      "stages": {
+        "Pre-deployment": 8,
+        "Planned": 5,
+        "Acquisition and/or Development": 4,
+        "Deployed": 4,
+        "Pilot": 2
+      }
+    },
+    {
+      "agency": "Farm Credit Administration",
+      "stages": {
+        "Unknown": 20,
+        "Pre-deployment": 3
+      }
+    },
+    {
+      "agency": "Office of Personnel Management",
+      "stages": {
+        "Unknown": 20,
+        "Acquisition and/or Development": 2
+      }
+    },
+    {
+      "agency": "Surface Transportation Board",
+      "stages": {
+        "Unknown": 20,
+        "Pre-deployment": 2
+      }
+    },
+    {
+      "agency": "Occupational Safety and Health Review Commission",
+      "stages": {
+        "Unknown": 20,
+        "Deployed": 1
+      }
+    },
+    {
+      "agency": "Committee for Purchase From People Who Are Blind or Significantly Disabled",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Court Services and Offender Supervision Agency",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Department of Treasury",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Department of Veteran Affairs-OIG",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Export-Import Bank of the U.S.",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Federal Labor Relations Authority",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Federal Reserve Board of Governors",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Morris K. Udall and Stewart L. Udall Foundation",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "National Endowment of the Arts",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "National Endowment for the Humanities",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "National Labor Relations Board",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "United States Election Assistance Commission",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "United States International Trade Commission",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "United States Office of Special Counsel",
+      "stages": {
+        "Unknown": 20
+      }
+    },
+    {
+      "agency": "Department of Education",
+      "stages": {
+        "Unknown": 15,
+        "Operation and Maintenance": 3,
+        "Implementation and Assessment": 1
+      }
+    },
+    {
+      "agency": "Equal Employment Opportunity Commission",
+      "stages": {
+        "Operation and Maintenance": 8
+      }
+    },
+    {
+      "agency": "United States Agency for Global Media",
+      "stages": {
+        "Initiated": 4,
+        "Planned": 4
+      }
+    },
+    {
+      "agency": "Commodity Futures Trading Commission",
+      "stages": {
+        "Operation and Maintenance": 1,
+        "Retired": 1,
+        "Acquisition and/or Development": 1,
+        "Initiated": 1,
+        "Pre-deployment": 1,
+        "Deployed": 1,
+        "Pilot": 1
+      }
+    },
+    {
+      "agency": "Election Assistance Commission",
+      "stages": {
+        "Pilot": 3,
+        "Operation and Maintenance": 2,
+        "Deployed": 1
+      }
+    },
+    {
+      "agency": "Presidio Trust",
+      "stages": {
+        "Operation and Maintenance": 5
+      }
+    },
+    {
+      "agency": "Consumer Financial Protection Bureau",
+      "stages": {
+        "Initiated": 4
+      }
+    },
+    {
+      "agency": "National Endowment for the Arts",
+      "stages": {
+        "Pre-deployment": 4
+      }
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "stages": {
+        "Deployed": 2,
+        "Pre-deployment": 2
+      }
+    },
+    {
+      "agency": "United States Commission on Civil Rights",
+      "stages": {
+        "Operation and Maintenance": 2
+      }
+    },
+    {
+      "agency": "Postal Regulatory Commission",
+      "stages": {
+        "Operation and Maintenance": 1
+      }
+    },
+    {
+      "agency": "Office of Special Counsel",
+      "stages": {
+        "Pre-deployment": 1
+      }
+    }
+  ]
+}

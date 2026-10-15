@@ -1,0 +1,463 @@
+{
+  "years": [
+    "2024",
+    "2025"
+  ],
+  "agencies": [
+    {
+      "agency": "Department of Health and Human Services",
+      "2024": 270,
+      "2025": 466,
+      "total": 736,
+      "yoy_change": 196
+    },
+    {
+      "agency": "Department of Veterans Affairs",
+      "2024": 228,
+      "2025": 387,
+      "total": 615,
+      "yoy_change": 159
+    },
+    {
+      "agency": "Department of Justice",
+      "2024": 226,
+      "2025": 301,
+      "total": 527,
+      "yoy_change": 75
+    },
+    {
+      "agency": "National Aeronautics and Space Administration",
+      "2024": 18,
+      "2025": 445,
+      "total": 463,
+      "yoy_change": 427
+    },
+    {
+      "agency": "Department of Homeland Security",
+      "2024": 183,
+      "2025": 257,
+      "total": 440,
+      "yoy_change": 74
+    },
+    {
+      "agency": "Department of the Interior",
+      "2024": 169,
+      "2025": 266,
+      "total": 435,
+      "yoy_change": 97
+    },
+    {
+      "agency": "Department of Energy",
+      "2024": 79,
+      "2025": 354,
+      "total": 433,
+      "yoy_change": 275
+    },
+    {
+      "agency": "Department of Commerce",
+      "2024": 57,
+      "2025": 243,
+      "total": 300,
+      "yoy_change": 186
+    },
+    {
+      "agency": "Department of Agriculture",
+      "2024": 89,
+      "2025": 182,
+      "total": 271,
+      "yoy_change": 93
+    },
+    {
+      "agency": "Department of the Treasury",
+      "2024": 54,
+      "2025": 125,
+      "total": 179,
+      "yoy_change": 71
+    },
+    {
+      "agency": "Department of Transportation",
+      "2024": 66,
+      "2025": 90,
+      "total": 156,
+      "yoy_change": 24
+    },
+    {
+      "agency": "United States Agency for International Development",
+      "2024": 137,
+      "2025": 0,
+      "total": 137,
+      "yoy_change": -137
+    },
+    {
+      "agency": "Department of State",
+      "2024": 51,
+      "2025": 80,
+      "total": 131,
+      "yoy_change": 29
+    },
+    {
+      "agency": "Department of Labor",
+      "2024": 68,
+      "2025": 61,
+      "total": 129,
+      "yoy_change": -7
+    },
+    {
+      "agency": "Federal Deposit Insurance Corporation",
+      "2024": 55,
+      "2025": 70,
+      "total": 125,
+      "yoy_change": 15
+    },
+    {
+      "agency": "Tennessee Valley Authority",
+      "2024": 38,
+      "2025": 79,
+      "total": 117,
+      "yoy_change": 41
+    },
+    {
+      "agency": "Securities and Exchange Commission",
+      "2024": 28,
+      "2025": 80,
+      "total": 108,
+      "yoy_change": 52
+    },
+    {
+      "agency": "General Services Administration",
+      "2024": 24,
+      "2025": 69,
+      "total": 93,
+      "yoy_change": 45
+    },
+    {
+      "agency": "Environmental Protection Agency",
+      "2024": 17,
+      "2025": 49,
+      "total": 66,
+      "yoy_change": 32
+    },
+    {
+      "agency": "Social Security Administration",
+      "2024": 23,
+      "2025": 33,
+      "total": 56,
+      "yoy_change": 10
+    },
+    {
+      "agency": "Federal Housing Finance Agency",
+      "2024": 18,
+      "2025": 36,
+      "total": 54,
+      "yoy_change": 18
+    },
+    {
+      "agency": "Small Business Administration",
+      "2024": 0,
+      "2025": 53,
+      "total": 53,
+      "yoy_change": 53
+    },
+    {
+      "agency": "Board of Governors of the Federal Reserve System",
+      "2024": 48,
+      "2025": 0,
+      "total": 48,
+      "yoy_change": -48
+    },
+    {
+      "agency": "Federal Trade Commission",
+      "2024": 6,
+      "2025": 36,
+      "total": 42,
+      "yoy_change": 30
+    },
+    {
+      "agency": "National Credit Union Administration",
+      "2024": 15,
+      "2025": 26,
+      "total": 41,
+      "yoy_change": 11
+    },
+    {
+      "agency": "Pension Benefit Guaranty Corporation",
+      "2024": 2,
+      "2025": 36,
+      "total": 38,
+      "yoy_change": 34
+    },
+    {
+      "agency": "Federal Reserve Board",
+      "2024": 0,
+      "2025": 38,
+      "total": 38,
+      "yoy_change": 38
+    },
+    {
+      "agency": "Department of Housing and Urban Development",
+      "2024": 6,
+      "2025": 31,
+      "total": 37,
+      "yoy_change": 25
+    },
+    {
+      "agency": "National Science Foundation",
+      "2024": 16,
+      "2025": 17,
+      "total": 33,
+      "yoy_change": 1
+    },
+    {
+      "agency": "Federal Energy Regulatory Commission",
+      "2024": 4,
+      "2025": 26,
+      "total": 30,
+      "yoy_change": 22
+    },
+    {
+      "agency": "National Transportation Safety Board",
+      "2024": 2,
+      "2025": 24,
+      "total": 26,
+      "yoy_change": 22
+    },
+    {
+      "agency": "Federal Communications Commission",
+      "2024": 0,
+      "2025": 26,
+      "total": 26,
+      "yoy_change": 26
+    },
+    {
+      "agency": "National Indian Gaming Commission",
+      "2024": 0,
+      "2025": 25,
+      "total": 25,
+      "yoy_change": 25
+    },
+    {
+      "agency": "United States Trade and Development Agency",
+      "2024": 4,
+      "2025": 20,
+      "total": 24,
+      "yoy_change": 16
+    },
+    {
+      "agency": "National Archives and Records Administration",
+      "2024": 9,
+      "2025": 14,
+      "total": 23,
+      "yoy_change": 5
+    },
+    {
+      "agency": "Farm Credit Administration",
+      "2024": 0,
+      "2025": 23,
+      "total": 23,
+      "yoy_change": 23
+    },
+    {
+      "agency": "Office of Personnel Management",
+      "2024": 2,
+      "2025": 20,
+      "total": 22,
+      "yoy_change": 18
+    },
+    {
+      "agency": "Surface Transportation Board",
+      "2024": 0,
+      "2025": 22,
+      "total": 22,
+      "yoy_change": 22
+    },
+    {
+      "agency": "Occupational Safety and Health Review Commission",
+      "2024": 0,
+      "2025": 21,
+      "total": 21,
+      "yoy_change": 21
+    },
+    {
+      "agency": "Committee for Purchase From People Who Are Blind or Significantly Disabled",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Court Services and Offender Supervision Agency",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Department of Treasury",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Department of Veteran Affairs-OIG",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Export-Import Bank of the U.S.",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Federal Labor Relations Authority",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Federal Reserve Board of Governors",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Morris K. Udall and Stewart L. Udall Foundation",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "National Endowment of the Arts",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "National Endowment for the Humanities",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "National Labor Relations Board",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "United States Election Assistance Commission",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "United States International Trade Commission",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "United States Office of Special Counsel",
+      "2024": 0,
+      "2025": 20,
+      "total": 20,
+      "yoy_change": 20
+    },
+    {
+      "agency": "Department of Education",
+      "2024": 4,
+      "2025": 15,
+      "total": 19,
+      "yoy_change": 11
+    },
+    {
+      "agency": "Equal Employment Opportunity Commission",
+      "2024": 8,
+      "2025": 0,
+      "total": 8,
+      "yoy_change": -8
+    },
+    {
+      "agency": "United States Agency for Global Media",
+      "2024": 8,
+      "2025": 0,
+      "total": 8,
+      "yoy_change": -8
+    },
+    {
+      "agency": "Commodity Futures Trading Commission",
+      "2024": 4,
+      "2025": 3,
+      "total": 7,
+      "yoy_change": -1
+    },
+    {
+      "agency": "Election Assistance Commission",
+      "2024": 2,
+      "2025": 4,
+      "total": 6,
+      "yoy_change": 2
+    },
+    {
+      "agency": "Presidio Trust",
+      "2024": 5,
+      "2025": 0,
+      "total": 5,
+      "yoy_change": -5
+    },
+    {
+      "agency": "Consumer Financial Protection Bureau",
+      "2024": 4,
+      "2025": 0,
+      "total": 4,
+      "yoy_change": -4
+    },
+    {
+      "agency": "National Endowment for the Arts",
+      "2024": 0,
+      "2025": 4,
+      "total": 4,
+      "yoy_change": 4
+    },
+    {
+      "agency": "Nuclear Regulatory Commission",
+      "2024": 0,
+      "2025": 4,
+      "total": 4,
+      "yoy_change": 4
+    },
+    {
+      "agency": "United States Commission on Civil Rights",
+      "2024": 2,
+      "2025": 0,
+      "total": 2,
+      "yoy_change": -2
+    },
+    {
+      "agency": "Postal Regulatory Commission",
+      "2024": 1,
+      "2025": 0,
+      "total": 1,
+      "yoy_change": -1
+    },
+    {
+      "agency": "Office of Special Counsel",
+      "2024": 0,
+      "2025": 1,
+      "total": 1,
+      "yoy_change": 1
+    }
+  ]
+}
