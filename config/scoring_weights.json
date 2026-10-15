@@ -1,0 +1,76 @@
+{
+  "_comment": "Litigation-risk scoring weights. Edit these values to retune the model without touching code. All weights are additive points toward a 0-100 score. See tools/_scorer.py for factor logic.",
+
+  "designation": {
+    "_comment": "Points for the OMB high-impact designation of a use case.",
+    "HIGH_IMPACT": 25,
+    "PRESUMED_NOT_HIGH_IMPACT": 20,
+    "NOT_HIGH_IMPACT": 0,
+    "UNKNOWN": 10
+  },
+
+  "affects_individuals": {
+    "_comment": "Added when the topic area or rights/safety fields indicate direct impact on individuals' rights or benefits.",
+    "points": 20,
+    "trigger_topics": [
+      "Law & Justice",
+      "Law Enforcement",
+      "Benefits Processing",
+      "Health & Medical",
+      "Health and Medical",
+      "Service Delivery",
+      "Government Services (includes Benefits and Service Delivery)"
+    ],
+    "rights_safety_triggers": ["Rights-Impacting", "Safety-impacting", "Both", "Yes"]
+  },
+
+  "development_stage": {
+    "_comment": "Points for how far along the use case is — deployed systems carry more risk.",
+    "deployed": 10,
+    "pilot": 5,
+    "pre_deployment": 0,
+    "retired": 0,
+    "unknown": 0
+  },
+
+  "has_pii": {
+    "_comment": "Points when the use case involves PII.",
+    "points": 10
+  },
+
+  "missing_safeguards": {
+    "_comment": "Points per missing safeguard on HIGH_IMPACT or PRESUMED_NOT_HIGH_IMPACT cases. Cap applied separately.",
+    "points_per_missing": 5,
+    "cap": 15,
+    "applies_to_designations": ["HIGH_IMPACT", "PRESUMED_NOT_HIGH_IMPACT"],
+    "factors": {
+      "hi_assessment_completed": "No impact assessment conducted",
+      "hi_independent_review": "No independent review",
+      "hi_ongoing_monitoring": "No ongoing monitoring",
+      "hi_appeal_process": "No notice or appeal mechanism"
+    }
+  },
+
+  "waiver": {
+    "_comment": "Points when the agency requested a waiver/extension from minimum risk management practices.",
+    "points": 10
+  },
+
+  "external_evidence": {
+    "_comment": "Points from data/known_issues.json (Phase 4). Not used in Phase 2.",
+    "litigation": 15,
+    "gao_ig_finding": 10,
+    "other": 5
+  },
+
+  "score_cap": 100,
+
+  "bands": {
+    "_comment": "Score ranges map to named risk bands.",
+    "Low":      [0, 29],
+    "Moderate": [30, 59],
+    "Elevated": [60, 100]
+  },
+
+  "disclaimer": "Indicator for triage only, based on agency self-reported data. Not legal advice."
+}

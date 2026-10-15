@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  evaluation.xml — Gold Q&A evaluation set for the Federal AI Risk Agent
+  Format: mcp-builder skill evaluation schema
+  10 questions with verifiable, deterministic answers drawn directly from the
+  OMB 2024/2025 Federal AI Use Case Inventories and the risk-scoring rubric.
+
+  All answers were verified against the live dataset on 2026-10-09.
+  To re-verify: run tools/test_eval_answers.py
+
+  Grading:
+    PASS  = agent answer contains the expected value (exact match or numeric within ±2)
+    FAIL  = answer contradicts or omits the expected value
+    SKIP  = tool not available / index not built
+-->
+<evaluation name="federal_ai_risk_agent_eval" version="1.0">
+
+  <metadata>
+    <description>Gold evaluation set for the gsa_gc_federal_ai_agent. Covers inventory counts, risk scoring, designation mapping, cluster membership, cross-agency analysis, and search behaviour.</description>
+    <dataset>OMB 2024 Federal AI Use Case Inventory v2 + OMB 2025 Individually Reported + 2025 COTS</dataset>
+    <total_records>6498</total_records>
+    <verified_date>2026-10-09</verified_date>
+  </metadata>
+
+  <!-- ===================================================================
+       Q1 – Total record count and band distribution
+       Tool: gsa_gc_top_risk_use_cases (no filters)
+       =================================================================== -->
+  <question id="Q1" tool="gsa_gc_top_risk_use_cases" difficulty="easy">
+    <prompt>How many federal AI use cases are in the combined OMB 2024 and 2025 inventories, and how many are in each risk band?</prompt>
+    <expected>
+      <value name="total_records" type="integer" exact="6498"/>
+      <value name="band_Low"      type="integer" exact="5180"/>
+      <value name="band_Moderate" type="integer" exact="1157"/>
+      <value name="band_Elevated" type="integer" exact="161"/>
+    </expected>
+    <grading>All four values must be present. Numeric tolerance ±5 (index rebuild may add/remove a small number of records).</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q2 – Top-scoring use case overall
+       Tool: gsa_gc_top_risk_use_cases (no filters, limit=1)
+       =================================================================== -->
+  <question id="Q2" tool="gsa_gc_top_risk_use_cases" difficulty="easy">
+    <prompt>What is the highest-risk federal AI use case overall, and what is its score?</prompt>
+    <expected>
+      <value name="use_case_name" type="string"  contains="Babel"/>
+      <value name="agency"        type="string"  contains="Homeland Security"/>
+      <value name="score"         type="integer" exact="65"/>
+      <value name="band"          type="string"  exact="Elevated"/>
+    </expected>
+    <grading>use_case_name must contain "Babel"; score must be 65; band must be Elevated.</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q3 – High-impact designation of a specific use case
+       Tool: gsa_gc_score_use_case
+       =================================================================== -->
+  <question id="Q3" tool="gsa_gc_score_use_case" difficulty="medium">
+    <prompt>What is the OMB high-impact designation of the use case with record_id DHS-2705 (Smartphone Information Forensics Triage), and what score does it receive?</prompt>
+    <expected>
+      <value name="hi_designation" type="string" exact="HIGH_IMPACT"/>
+      <value name="band"           type="string" exact="Elevated"/>
+      <value name="record_id"      type="string" exact="DHS-2705"/>
+    </expected>
+    <grading>Designation must be HIGH_IMPACT (not PRESUMED_NOT_HIGH_IMPACT or UNKNOWN). Band must be Elevated.</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q4 – PRESUMED_NOT_HIGH_IMPACT must NOT be classified as HIGH_IMPACT
+       Tool: gsa_gc_score_use_case
+       =================================================================== -->
+  <question id="Q4" tool="gsa_gc_score_use_case" difficulty="medium">
+    <prompt>What is the designation and risk score of use case DHS-194 (AI Enabled Autonomous Underwater Vehicle)?</prompt>
+    <expected>
+      <value name="hi_designation" type="string" exact="PRESUMED_NOT_HIGH_IMPACT"/>
+      <value name="score"          type="integer" min="15" max="30"/>
+    </expected>
+    <grading>
+      Designation must be exactly PRESUMED_NOT_HIGH_IMPACT — NOT HIGH_IMPACT.
+      Score from designation factor alone is 20; total should be 20-30 depending on other fields.
+      This question specifically tests that the agent does not conflate PRESUMED_NOT_HIGH_IMPACT with HIGH_IMPACT.
+    </grading>
+  </question>
+
+  <!-- ===================================================================
+       Q5 – Agency with most Elevated-band use cases
+       Tool: gsa_gc_top_risk_use_cases (band=Elevated)
+       =================================================================== -->
+  <question id="Q5" tool="gsa_gc_top_risk_use_cases" difficulty="easy">
+    <prompt>Which federal agency has the most Elevated-risk AI use cases?</prompt>
+    <expected>
+      <value name="agency"        type="string"  contains="Justice"/>
+      <value name="elevated_count" type="integer" exact="80"/>
+    </expected>
+    <grading>Agency must be Department of Justice. Count must be 80 (±3).</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q6 – Top-scoring DOJ use case
+       Tool: gsa_gc_top_risk_use_cases (agency="Department of Justice", limit=1)
+       =================================================================== -->
+  <question id="Q6" tool="gsa_gc_top_risk_use_cases" difficulty="medium">
+    <prompt>What is the top-scoring AI use case for the Department of Justice, and what is its record ID?</prompt>
+    <expected>
+      <value name="record_id"     type="string" exact="DOJ-0002"/>
+      <value name="use_case_name" type="string" contains="Airlines Travel Intelligence"/>
+      <value name="score"         type="integer" exact="65"/>
+    </expected>
+    <grading>record_id must be DOJ-0002; name must contain "Airlines Travel Intelligence".</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q7 – Cluster membership: two use cases in the same cluster
+       Tool: gsa_gc_list_clusters + gsa_gc_cluster_details
+       =================================================================== -->
+  <question id="Q7" tool="gsa_gc_list_clusters,gsa_gc_cluster_details" difficulty="hard">
+    <prompt>
+      Are the use cases with record IDs
+      "PT|scheduling_and_managing_social_media_posts_using_ai_includin|2024" (Presidio Trust) and
+      "COTS|committee_for_purchase_from_people_who_are_blind_or_signific|scheduling_and_managing_social_media_posts_using_ai|2025"
+      (Committee for Purchase) in the same cluster? If so, what is the cluster label?
+    </prompt>
+    <expected>
+      <value name="same_cluster"  type="boolean" exact="true"/>
+      <value name="cluster_id"    type="string"  exact="12"/>
+      <value name="label_contains" type="string" contains="social media"/>
+    </expected>
+    <grading>Both records must be identified as being in cluster 12. Label must reference social media scheduling.</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q8 – Rights-impacting count (2024 inventory)
+       Tool: gsa_gc_federal_ai_usecase_aggregator or gsa_gc_top_risk_use_cases
+       =================================================================== -->
+  <question id="Q8" tool="gsa_gc_federal_ai_usecase_aggregator" difficulty="easy">
+    <prompt>How many federal AI use cases in the 2024 OMB inventory are flagged as rights-impacting?</prompt>
+    <expected>
+      <value name="rights_impacting_count" type="integer" exact="121"/>
+    </expected>
+    <grading>Count must be 121 (±3). Note: this field is only populated in 2024 data; 2025 individual records do not have a rights-impacting field.</grading>
+  </question>
+
+  <!-- ===================================================================
+       Q9 – Rubric: what does PRESUMED_NOT_HIGH_IMPACT score?
+       Tool: gsa_gc_explain_risk_rubric
+       =================================================================== -->
+  <question id="Q9" tool="gsa_gc_explain_risk_rubric" difficulty="easy">
+    <prompt>According to the risk scoring rubric, how many points does a PRESUMED_NOT_HIGH_IMPACT designation add, and why is it scored higher than NOT_HIGH_IMPACT?</prompt>
+    <expected>
+      <value name="points"        type="integer" exact="20"/>
+      <value name="rationale_key" type="string"  contains="self-exemption"/>
+    </expected>
+    <grading>
+      Points must be 20 (not 25 for HIGH_IMPACT, not 0 for NOT_HIGH_IMPACT).
+      Rationale must explain the self-exemption signal.
+      Disclaimer must be present in the agent response.
+    </grading>
+  </question>
+
+  <!-- ===================================================================
+       Q10 – search_litigation with no token returns a helpful message
+       Tool: gsa_gc_search_litigation
+       =================================================================== -->
+  <question id="Q10" tool="gsa_gc_search_litigation" difficulty="easy">
+    <prompt>Search CourtListener for cases related to "facial recognition border patrol". What happens if the COURTLISTENER_API_TOKEN is not configured?</prompt>
+    <expected>
+      <value name="token_present"  type="boolean" exact="false"/>
+      <value name="warning_present" type="boolean" exact="true"/>
+      <value name="warning_contains" type="string" contains="COURTLISTENER_API_TOKEN"/>
+      <value name="error_thrown"   type="boolean" exact="false"/>
+    </expected>
+    <grading>
+      The tool must NOT throw an error. It must return token_present=false with a clear warning
+      explaining how to obtain and set the token. Count=0 and cases=[] expected.
+      This tests graceful degradation.
+    </grading>
+  </question>
+
+</evaluation>

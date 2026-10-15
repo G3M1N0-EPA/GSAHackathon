@@ -1,0 +1,34 @@
+[
+  {
+    "_schema_comment": "Each entry has the following fields:",
+    "_fields": {
+      "use_case_id":  "record_id from the inventory (e.g. 'DHS|babel|2024'). Required.",
+      "type":         "One of: litigation | gao | ig | other. Required.",
+      "title":        "Short human-readable title of the finding or case. Required.",
+      "url":          "Canonical URL (court docket, GAO report, IG report). Required.",
+      "date":         "ISO-8601 date (YYYY-MM-DD or YYYY). Required.",
+      "summary":      "One-sentence plain-language description. Optional.",
+      "confirmed":    "true = manually verified match; false = lead only. Required.",
+      "added_by":     "Initials or name of curator who added this entry. Required.",
+      "notes":        "Free-text curator notes. Optional."
+    },
+    "_how_to_add": [
+      "1. Run gsa_gc_search_litigation to find candidate CourtListener cases.",
+      "2. Manually verify the case relates to the specific use case (name matches are often false positives).",
+      "3. Add a new JSON object below with confirmed: true only after verification.",
+      "4. Re-run scripts/build_index.py if risk scores need updating.",
+      "5. Never auto-populate this file from search results."
+    ]
+  },
+  {
+    "use_case_id": "CBP|facial_recognition_entry_exit|2024",
+    "type": "litigation",
+    "title": "ACLU v. CBP — facial recognition deployment at border",
+    "url": "https://www.aclu.org/cases/aclu-v-cbp-facial-recognition",
+    "date": "2023-11-01",
+    "summary": "ACLU FOIA lawsuit seeking records on CBP's deployment of facial recognition technology at ports of entry and its impact on travelers' rights.",
+    "confirmed": false,
+    "added_by": "EXAMPLE — not a verified match",
+    "notes": "Placeholder example entry to illustrate schema. use_case_id must be updated to match a real record_id from the inventory before this entry is used in scoring."
+  }
+]
