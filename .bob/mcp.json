@@ -20,6 +20,10 @@
         "WXO_MCP_DEBUG": ""
       },
       "timeout": 120000
+    },
+    "courtlistener": {
+      "url": "https://mcp.courtlistener.com/",
+      "timeout": 60000
     }
   }
 }
