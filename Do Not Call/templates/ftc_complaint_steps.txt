@@ -1,0 +1,106 @@
+DO NOT CALL VIOLATION — ACTION STEPS
+======================================
+
+The following steps outline the formal actions you can take against {caller_number} for
+Do Not Call Registry violations. Estimated potential recovery: {total_damages}.
+
+----------------------------------------------------------------------
+STEP 1 — FILE A COMPLAINT WITH THE FTC
+----------------------------------------------------------------------
+
+URL: {ftc_complaint_url}
+
+The Federal Trade Commission (FTC) enforces the National Do Not Call Registry and the
+Telemarketing Sales Rule (TSR), 16 C.F.R. Part 310. Filing a complaint is free, takes
+approximately 5–10 minutes, and strengthens the FTC's enforcement record against repeat
+violators. Fines levied on companies can reach $50,120 per violation.
+
+Instructions:
+  a. Visit {ftc_complaint_url} in your web browser.
+  b. Select "Unwanted Calls, Emails, and Texts" as the category.
+  c. Choose "Unwanted telemarketing, robocalls, or text messages."
+  d. Enter the caller's number: {caller_number}
+  e. Provide the date(s) of the call(s) and a brief description of what was said.
+  f. Submit the complaint. You will receive a confirmation number — keep it for your records.
+  g. Note: The FTC does not resolve individual complaints but uses the data to build cases
+     against high-volume violators.
+
+----------------------------------------------------------------------
+STEP 2 — FILE A COMPLAINT WITH THE FCC
+----------------------------------------------------------------------
+
+URL: {fcc_complaint_url}
+
+The Federal Communications Commission (FCC) enforces the Telephone Consumer Protection Act
+(TCPA), 47 U.S.C. § 227, and FCC regulations at 47 C.F.R. § 64.1200. An FCC complaint is
+separate from the FTC complaint and targets the specific TCPA violation.
+
+Instructions:
+  a. Visit {fcc_complaint_url} in your web browser.
+  b. Click "Phone" as the complaint category.
+  c. Select "Unwanted Calls" and then "Telemarketing (including do-not-call violations)."
+  d. Enter the caller's number: {caller_number}
+  e. Describe each call with date, time, and what the caller said.
+  f. Attach any records you have (call logs, voicemails, prior written notices you sent).
+  g. Submit the complaint. The FCC may forward it to the caller and can open an investigation.
+
+----------------------------------------------------------------------
+STEP 3 — PURSUE CIVIL ACTION IN SMALL CLAIMS COURT ({state})
+----------------------------------------------------------------------
+
+Small Claims Limit for {state}: {small_claims_limit}
+
+Under 47 U.S.C. § 227(c)(5), you have a private right of action to sue the caller in state
+court for each violation of the Do Not Call Registry rules. You do NOT need an attorney to
+file in small claims court.
+
+Potential recovery:
+  - $500 per call in statutory damages (minimum)
+  - Up to $1,500 per call if the court finds the violation was knowing or willful
+  - Total potential recovery for documented violations: {total_damages}
+
+Instructions:
+  a. Gather your evidence:
+       - Call logs from your phone showing {caller_number} and the date/time of each call
+       - Screenshot or confirmation of your Do Not Call Registry registration
+       - Copies of any cease-and-desist letters you sent and proof of delivery
+       - Voicemail recordings if available
+  b. Identify the caller's legal name and address:
+       - Search your state's Secretary of State business registry for the caller's company
+       - Use the FCC's Robocall Mitigation Database: https://fccprod.servicenowservices.com/rmd
+       - A reverse phone lookup service may also help identify the carrier
+  c. File your claim in {state} small claims court:
+       - Find your local courthouse at: https://www.uscourts.gov/court-locator
+       - Complete the small claims petition form (usually available at the courthouse or
+         the court's website)
+       - Filing fees are typically $30–$100 depending on the county
+       - Serve the defendant according to your state's rules (usually certified mail or
+         process server)
+  d. At your hearing, present your evidence and cite:
+       - 47 U.S.C. § 227(c)(5) — TCPA private right of action
+       - 47 U.S.C. § 227(c)(5)(C) — treble damages for willful violations
+       - Your registration on the National Do Not Call Registry
+  e. If the claim exceeds the {state} small claims limit of {small_claims_limit}, consider
+     filing in a higher court or consulting a TCPA plaintiff's attorney (many work on
+     contingency for TCPA cases).
+
+----------------------------------------------------------------------
+STEP 4 — POTENTIAL DAMAGES SUMMARY
+----------------------------------------------------------------------
+
+Total documented violations:       see violation record
+Statutory damages per call:        $500 (47 U.S.C. § 227(c)(5))
+Treble damages (if willful):       $1,500 per call
+Estimated total recovery:          {total_damages}
+
+Note: Damages shown are based on the standard $500/call rate. If a court finds violations
+were knowing and willful, actual recovery could be up to three times this amount.
+
+----------------------------------------------------------------------
+IMPORTANT DISCLAIMER
+----------------------------------------------------------------------
+
+These steps provide general information only and are not legal advice. Consult a licensed
+attorney for guidance specific to your situation. TCPA enforcement outcomes depend on the
+specific facts, applicable exemptions, and jurisdiction. The FTC and FCC complaint processes
+are civil/regulatory and separate from any criminal referral.

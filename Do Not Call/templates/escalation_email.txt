@@ -1,0 +1,76 @@
+Subject: TCPA Violation Notice — Demand for Statutory Damages
+
+Date: {today_date}
+
+To Whom It May Concern at {caller_name},
+
+My name is {user_name}. My phone number is {user_phone} and I may be reached by email at
+{user_email}.
+
+This letter constitutes a formal ESCALATED NOTICE following {violation_count} documented
+violations of the Telephone Consumer Protection Act (TCPA), 47 U.S.C. § 227, involving
+calls from your number, {caller_number}.
+
+RECORD OF VIOLATIONS
+
+Your organization has continued to call my phone number, {user_phone}, which is registered
+on the National Do Not Call Registry, on {violation_count} separate occasions. I have
+previously notified you of this violation and demanded that you cease. Despite that notice,
+the calls have continued.
+
+These repeated, willful violations of federal law are unacceptable.
+
+APPLICABLE LAW
+
+Your conduct violates:
+
+  - 47 U.S.C. § 227(c)(5) — Private right of action for Do Not Call Registry violations,
+    providing $500 per call in statutory damages or up to $1,500 per call for willful
+    violations;
+  - 47 C.F.R. § 64.1200 — FCC regulations implementing the TCPA;
+  - 16 C.F.R. Part 310 — FTC Telemarketing Sales Rule (TSR).
+
+DEMAND FOR PAYMENT OR CESSATION
+
+Based on {violation_count} documented violations at $500 per call under 47 U.S.C.
+§ 227(c)(5), the minimum statutory damages owed to me are:
+
+    {violation_count} calls × $500 = {total_damages}
+
+Given the willful nature of these repeated violations after prior notice, the court may
+award up to three times this amount under 47 U.S.C. § 227(c)(5)(C).
+
+I hereby demand one of the following within ten (10) days of this letter:
+
+  1. Written confirmation that {user_phone} has been permanently added to your Do Not Call
+     list, AND a settlement payment of {total_damages} in recognition of the {violation_count}
+     violations; OR
+  2. Complete and permanent cessation of all calls to {user_phone} and any numbers associated
+     with me, with written confirmation.
+
+Failure to comply will result in my filing complaints with the FTC and FCC, and pursuing
+civil action in small claims court or a court of competent jurisdiction without further
+notice.
+
+REGULATORY COMPLAINTS ALREADY IN PROGRESS
+
+I have initiated or will initiate formal complaints with:
+
+  - The Federal Trade Commission (FTC): {ftc_complaint_url}
+  - The Federal Communications Commission (FCC): https://consumercomplaints.fcc.gov/hc/en-us
+
+These complaints are in addition to, not in lieu of, my private right of action under TCPA.
+
+This is your final opportunity to resolve this matter without litigation.
+
+Sincerely,
+
+{user_name}
+Phone: {user_phone}
+Email: {user_email}
+Date: {today_date}
+
+---
+DISCLAIMER: This letter template provides general information only and is not legal advice.
+Consult a licensed attorney for guidance specific to your situation. TCPA enforcement
+outcomes depend on facts and jurisdiction.

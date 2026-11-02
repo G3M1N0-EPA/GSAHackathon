@@ -1,0 +1,27 @@
+{
+  "ftc_registration_url": "https://www.donotcall.gov/register.html",
+  "ftc_verify_url": "https://www.donotcall.gov/verify.html",
+  "ftc_complaint_url": "https://reportfraud.ftc.gov/",
+  "fcc_complaint_url": "https://consumercomplaints.fcc.gov/hc/en-us",
+  "numverify_base_url": "http://apilayer.net/api/validate",
+  "tcpa_damages": {
+    "per_call": 500,
+    "willful_per_call": 1500
+  },
+  "email_format": {
+    "subject_first": "Cease and Desist — Do Not Call Violation",
+    "subject_repeat": "TCPA Violation Notice — Demand for Statutory Damages"
+  },
+  "small_claims_limits": {
+    "CA": 12500,
+    "TX": 20000,
+    "FL": 8000,
+    "NY": 10000,
+    "PA": 12000,
+    "IL": 10000,
+    "OH": 6000,
+    "GA": 15000,
+    "NC": 10000,
+    "MI": 6500
+  }
+}

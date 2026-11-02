@@ -1,0 +1,56 @@
+Subject: Cease and Desist — Do Not Call Violation
+
+Date: {today_date}
+
+To Whom It May Concern at {caller_name},
+
+My name is {user_name}. My phone number is {user_phone} and I may be reached by email at
+{user_email}.
+
+I am writing to formally demand that you immediately and permanently cease all telephone
+solicitation calls to my phone number, {user_phone}.
+
+NOTICE OF VIOLATION
+
+On {call_date} at {call_time}, I received an unsolicited telephone solicitation call from
+your number, {caller_number}. My telephone number is registered on the National Do Not Call
+Registry maintained by the Federal Trade Commission (FTC). Calling a number listed on the
+Do Not Call Registry without the recipient's prior express written consent is a violation of:
+
+  - The Telephone Consumer Protection Act (TCPA), 47 U.S.C. § 227, and its implementing
+    regulations at 47 C.F.R. § 64.1200; and
+  - The FTC's Telemarketing Sales Rule (TSR), 16 C.F.R. Part 310.
+
+DEMAND
+
+I hereby demand that you:
+
+  1. Immediately add my phone number, {user_phone}, to your internal Do Not Call list.
+  2. Cease all further telephone solicitation calls to {user_phone}.
+  3. Confirm in writing within ten (10) days that you have complied with this demand.
+
+NOTICE OF RIGHTS AND POTENTIAL LIABILITY
+
+Under 47 U.S.C. § 227(c)(5), I have a private right of action to bring suit in an
+appropriate court of that state. For each violation, I may recover:
+
+  - $500 in statutory damages per call; or
+  - Up to $1,500 per call if the court finds the violation was knowing or willful.
+
+This letter constitutes formal written notice. Any further calls to {user_phone} after the
+date of this letter will be treated as willful violations, subjecting your organization to
+treble damages under 47 U.S.C. § 227(c)(5)(C).
+
+Please govern yourself accordingly.
+
+Sincerely,
+
+{user_name}
+Phone: {user_phone}
+Email: {user_email}
+Date: {today_date}
+
+---
+DISCLAIMER: This letter template provides general information only and is not legal advice.
+Consult a licensed attorney for guidance specific to your situation. TCPA enforcement
+outcomes depend on facts and jurisdiction.
