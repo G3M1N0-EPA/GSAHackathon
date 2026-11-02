@@ -30,5 +30,49 @@
     "confirmed": false,
     "added_by": "EXAMPLE — not a verified match",
     "notes": "Placeholder example entry to illustrate schema. use_case_id must be updated to match a real record_id from the inventory before this entry is used in scoring."
+  },
+  {
+    "use_case_id": "VA|pension_optimization_initiative_poi|2024",
+    "type": "litigation",
+    "title": "National Organization of Veterans' Advocates, Inc. v. Secretary of Veterans Affairs — Fed. Cir. 25-1399",
+    "url": "https://www.courtlistener.com/docket/70435982/national-organization-of-veterans-advocates-inc-v-secretary-of-veterans/",
+    "date": "2025-01-30",
+    "summary": "NOVA petitioned the Federal Circuit under 38 U.S.C. § 502 to challenge a VA regulatory action; case voluntarily dismissed June 2025 before merits briefing — specific rule at issue not confirmed.",
+    "confirmed": false,
+    "added_by": "Gem Cortez via CourtListener MCP search",
+    "notes": "Lead only — voluntarily dismissed 2025-06-17 by joint stipulation before any merits brief was filed. The petition originated directly from the VA, and NOVA (the largest VSO litigator) was petitioner, making this structurally relevant to VBA automated benefits processes. Cannot confirm AI link without reading the underlying petition. Docket entries are available on PACER: gov.uscourts.cafc.22671. Needs manual follow-up to identify the specific VA rule challenged."
+  },
+  {
+    "use_case_id": "VA|master_claims_assistance_tool_m_cat|2024",
+    "type": "litigation",
+    "title": "Anthropic PBC v. U.S. Dept. of War — APA AI challenge, VA named defendant (N.D. Cal. 3:26-cv-01996; D.C. Cir. 26-1049)",
+    "url": "https://www.courtlistener.com/docket/72379655/anthropic-pbc-v-us-department-of-war/",
+    "date": "2026-03-09",
+    "summary": "D.C. Circuit upheld exclusion of Anthropic's Claude from federal agency supply chains under FASCSА; VA was named as a party defendant but the case concerned DoD/supply chain security, not VA benefits AI.",
+    "confirmed": false,
+    "added_by": "Gem Cortez via CourtListener MCP search",
+    "notes": "Lead only — NOT directly about VA benefits AI. D.C. Cir. opinion (26-1049, decided 2026-09-25) held the Department of War's exclusion of Claude from its supply chain was lawful under the Federal Acquisition Supply Chain Security Act of 2018. VA was a named federal defendant but not the subject of the AI exclusion. Included here as a structural precedent: the APA and FASCSА framework used in this case could be applied to challenge opaque GenAI tools (like M-CAT) in federal benefits adjudication. Do not count as confirmed litigation against M-CAT."
+  },
+  {
+    "use_case_id": "VA|payment_redirect_fraud_prf_model|2024",
+    "type": "other",
+    "title": "Structural risk: VBA algorithmic fraud-detection models — no active docket found",
+    "url": "https://www.courtlistener.com/docket/70435982/",
+    "date": "2025-10-15",
+    "summary": "CourtListener search returned no docket directly naming the PRF Model; risk derives from established VBA benefits-error litigation patterns and algorithmic-scoring due process doctrine.",
+    "confirmed": false,
+    "added_by": "Gem Cortez via CourtListener MCP search",
+    "notes": "No active litigation found specifically naming the Payment Redirect Fraud Model. Litigation risk is structural: (1) Cushman v. Shinseki, 576 F.3d 1290 (Fed. Cir. 2009) establishes due process rights in VA benefits; (2) false-positive fraud flags that cut off direct deposit payments to veterans expose VA to APA arbitrary-and-capricious claims and potential class action. Monitor for VSO complaints filed with VA OIG or GAO reviews of VBA fraud-detection systems."
+  },
+  {
+    "use_case_id": "VA|pact_act_co_pay_exemption_prediction_tool|2024",
+    "type": "litigation",
+    "title": "Structural risk: PACT Act benefits litigation ecosystem — no docket specifically naming co-pay AI",
+    "url": "https://www.courtlistener.com/docket/69033873/transgender-american-veterans-association-v-secretary-of-veterans-affairs/",
+    "date": "2024-04-19",
+    "summary": "Active Federal Circuit litigation ecosystem challenging VA benefit access decisions under the PACT Act; AI-driven co-pay exemption errors would flow directly into this well-litigated domain.",
+    "confirmed": false,
+    "added_by": "Gem Cortez via CourtListener MCP search",
+    "notes": "No docket specifically names the PACT Act Co-Pay Exemption Prediction Tool. Reference docket is Transgender American Veterans Assoc. v. Secretary of Veterans Affairs (Fed. Cir. 24-1714, filed 2024-04-19, decided 2025-01-14) — a 22-state/VSO coalition case against the VA Secretary, demonstrating the active, organized Federal Circuit litigation environment around VA benefit access. Any AI-driven wrongful co-pay exemption denial under the PACT Act would be litigable in this same venue."
   }
 ]
