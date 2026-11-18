@@ -18,7 +18,7 @@ from pydantic import BaseModel
 # ---------------------------------------------------------------------------
 
 class SessionViolationState(BaseModel):
-    violations: list
+    violations: list[dict]
     total_count: int
     should_escalate: bool
     summary: str
@@ -35,7 +35,7 @@ def track_violation(
     caller_number: str,
     call_date: str,
     call_time: str,
-    session_violations: list,
+    session_violations: list[dict],
 ) -> SessionViolationState:
     """Append a new violation to the session list and return the updated state.
 
@@ -54,7 +54,7 @@ def track_violation(
         caller_number (str): Phone number of the caller associated with this violation.
         call_date (str): Date of the call (e.g. "2024-07-15" or "July 15, 2024").
         call_time (str): Time of the call (e.g. "2:34 PM").
-        session_violations (list): The running violations list from the previous call.
+        session_violations (list[dict]): The running violations list from the previous call.
                                     Pass [] on the first call in a session. The agent
                                     must carry the returned violations list forward in
                                     context for subsequent calls.

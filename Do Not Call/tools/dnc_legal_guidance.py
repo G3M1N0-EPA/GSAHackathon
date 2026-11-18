@@ -53,7 +53,7 @@ class LegalStep(BaseModel):
 
 
 class LegalGuidance(BaseModel):
-    steps: list
+    steps: list[dict]
     total_potential_damages: int
     small_claims_limit: str
     state: str
